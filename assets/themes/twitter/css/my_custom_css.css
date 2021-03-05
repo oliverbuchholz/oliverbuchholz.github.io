@@ -7,15 +7,15 @@ code {
 }
 
 a code {
-    color: #black;
+    color: black;
 }
 
 a {
-    color: #black;
+    color: LightSlateGrey;
 }
 
 a:hover {
-    color: black;
+    color: LightSlateGrey;
     background-color: white;
     text-decoration: underline;
 }
