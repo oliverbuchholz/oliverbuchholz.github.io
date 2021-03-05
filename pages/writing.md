@@ -24,10 +24,10 @@ description: Oliver's research
  </li>
 
 
-<li><b>Uncertainty and the Business Cycle</b> (2020) <a href="papers/MA_Econ.pdf">[thesis]</a><br> 
+<li><b>Uncertainty and the Business Cycle</b> (2020) [thesis]({{ BASE_PATH }}/papers/MA_Econ.pdf)</a><br> 
  Thesis for the degree M. Sc. in Economics and Finance<br><br>
  </li>
 
-<li><b>Forecasting Emergency Patient Arrival Counts</b> (2015) <a href="papers/BA.pdf">[thesis]</a><br> 
+<li><b>Forecasting Emergency Patient Arrival Counts</b> (2015) [thesis]({{ BASE_PATH }}/papers/BA.pdf)</a><br> 
  Thesis for the degree B. Sc. in Economics and Business Administration<br><br>
  </li>
