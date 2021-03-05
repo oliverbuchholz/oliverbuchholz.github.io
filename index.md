@@ -1,5 +1,4 @@
 ---
-<meta name="google-site-verification" content="lSwMCB4e268Z0E4lZT2lF25sOPkxKtWNq0Zrt7tyjSA" />
 layout: frontpage
 title: Oliver Buchholz
 description: Oliver Buchholz is a PhD student in philosophy at University of T&uuml;bingen. 
