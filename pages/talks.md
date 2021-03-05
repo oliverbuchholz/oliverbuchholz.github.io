@@ -7,6 +7,9 @@ description: Oliver's talks
 <h4>Upcoming</h4>
 
 <ul>
+<li><b>The Deep Neural Network Approach to the Reference Class Problem</b>, <a href="https://sites.google.com/view/philsciai/home" target="_blank">workshop &ldquo;Philosophy of Science in Light of AI&rdquo;</a>, <em>tba</em>.<br><br>
+</li>
+
 <li><b>A Falsificationist Account of Artificial Neural Networks</b>, <a href="https://www.inf.uni-hamburg.de/en/inst/ab/eit/cepe-iacap2021.html" target="_blank">CEPE/IACAP joint conference</a>, Hamburg (virtual), July 2021.<br><br>
 </li>
 </ul>
