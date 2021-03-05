@@ -15,7 +15,7 @@ This is my <a href="assets/CV.pdf" target="_blank">CV</a>. Contact me at oliver 
 
 <h4> Research </h4>
 
-Philosophy of science, philosophy of machine learning, and the ways in which both of them interact.<br><br>
+Philosophy of science, philosophy of machine learning, and the ways in which they interact.<br><br>
 
 
 <h4> News </h4>
