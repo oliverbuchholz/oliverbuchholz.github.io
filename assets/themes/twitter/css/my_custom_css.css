@@ -7,17 +7,17 @@ code {
 }
 
 a code {
-    color: #slateblue;
+    color: #black;
 }
 
 a {
-    color: #slateblue;
+    color: #black;
 }
 
 a:hover {
-    color: darkslateblue;
-    background-color: #e3e4fa;
-    text-decoration: none;
+    color: black;
+    background-color: white;
+    text-decoration: underline;
 }
 
 a img {
@@ -58,7 +58,7 @@ td.right {
 
 
 h1, h2, h3, h4 {
-    color: darkslateblue;
+    color: black;
 }
 
 .danger {
