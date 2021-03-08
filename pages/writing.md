@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Oliver Buchholz | Writing
-description: Oliver's research
+title: Writing
+description: Oliver Buchholz | Writing
 ---
 
 <h4>Work in progress</h4>

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Oliver Buchholz | Talks
-description: Oliver's talks
+title: Talks
+description: Oliver Buchholz | Talks
 ---
 
 <h4>Upcoming</h4>
