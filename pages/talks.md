@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Talks
+title: Oliver Buchholz | Talks
 description: Oliver's talks
 ---
 
