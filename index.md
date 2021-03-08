@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Oliver Buchholz
+title: Oliver Buchholz | Home
 description: Oliver Buchholz is a PhD student in philosophy at University of T&uuml;bingen. 
 keywords: Buchholz, Oliver, philosophy, machine learning, phd, T&uuml;bingen
 ---
