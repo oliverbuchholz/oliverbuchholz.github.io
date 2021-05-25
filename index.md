@@ -21,9 +21,9 @@ Philosophy of science, philosophy of machine learning, and the ways in which the
 <h4> News </h4>
 
 <ul>
-<li> 02/11/2021 &ndash; My paper &ldquo;A Falsificationist Account of Artificial Neural Networks&rdquo; was accepted for presentation at this year's <a href="https://www.inf.uni-hamburg.de/en/inst/ab/eit/cepe-iacap2021.html" target="_blank">CEPE/IACAP joint conference</a>.<br><br>
+<li> 02/11/2021 &ndash; My paper &ldquo;A Falsificationist Account of Artificial Neural Networks&rdquo; has been accepted for presentation at this year's <a href="https://www.inf.uni-hamburg.de/en/inst/ab/eit/cepe-iacap2021.html" target="_blank">CEPE/IACAP joint conference</a>.<br><br>
 </li>
 
-<li> 02/03/2021 &ndash; My paper &ldquo;The Deep Neural Network Approach to the Reference Class Problem&rdquo; was accepted for presentation at the upcoming <a href="https://sites.google.com/view/philsciai/home" target="_blank">workshop &ldquo;Philosophy of Science in Light of AI&rdquo;</a>.
+<li> 02/03/2021 &ndash; My paper &ldquo;The Deep Neural Network Approach to the Reference Class Problem&rdquo; has been accepted for presentation at the upcoming <a href="https://sites.google.com/view/philsciai/home" target="_blank">workshop &ldquo;Philosophy of Science in Light of AI&rdquo;</a>.
 </li>
 </ul>
