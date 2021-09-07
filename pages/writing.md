@@ -7,13 +7,13 @@ description: Oliver Buchholz | Writing
 <h4>Work in progress</h4>
 
 <ul>
-<li><b>A Falsificationist Account of Artificial Neural Networks</b>, submitted.<br><br>
+ <li><b>A Falsificationist Account of Artificial Neural Networks</b> (with Eric Raidl), <i>submitted</i>.<br><br>
 </li>
 
-<li><b>A Means-End Account of Explainable Artificial Intelligence</b>, in preparation.<br><br>
+ <li><b>A Means-End Account of Explainable Artificial Intelligence</b>, <i>in preparation</i>.<br><br>
 </li>
 
-<li><b>The Deep Neural Network Approach to the Reference Class Problem</b>, in preparation.<br><br>
+ <li><b>The Deep Neural Network Approach to the Reference Class Problem</b>, <i>in preparation</i>.<br><br>
 </li>
 </ul>
 
