@@ -1,8 +1,8 @@
 ---
 layout: frontpage
 title: Oliver Buchholz | Home
-description: Oliver Buchholz is a PhD student in philosophy at University of T&uuml;bingen. 
-keywords: Buchholz, Oliver, philosophy, machine learning, phd, T&uuml;bingen
+description: Oliver Buchholz is a PhD student in philosophy at University of Tübingen. 
+keywords: Buchholz, Oliver, philosophy, machine learning, phd, Tübingen
 ---
 
 <h4> About </h4>
@@ -23,16 +23,17 @@ Philosophy of science, philosophy of machine learning, and the ways in which the
 <ul>
 <li> 08/31/2021 &ndash; I will have the opportunity to present my paper &ldquo;A Means-End Account of Explainable Artificial Intelligence&rdquo; at the <a href="https://www.pt-ai.org/2021" target="_blank">4th Conference on &ldquo;Philosophy and Theory of Artificial Intelligence&rdquo;</a>.<br><br>
 </li>
-  
+<!
 <li> 06/11/2021 &ndash; My paper &ldquo;A Falsificationist Account of Artificial Neural Networks&rdquo; has been accepted for presentation at the <a href="https://sps2021.sciencesconf.org/?forward-action=index&forward-controller=index&lang=en" target="_blank">8th Congress of the Society for the Philosophy of Science</a>.<br><br>
 </li>
-
+>
 <li> 06/01/2021 &ndash; I had the opportunity to give a <a href="https://www.youtube.com/watch?v=gJqGN2Las0s" target="_blank">talk</a> at University of T&uuml;bingen's <a href="https://www.youtube.com/watch?v=9axjY4VCXH4&list=PLsY-pzz3J1IROY5FmJe8pdg7ni72Vzk0k" target="_blank">Philosophy of Science &amp; Methodology Colloquium</a>.<br><br>
 </li>
-
+<!
 <li> 02/11/2021 &ndash; My paper &ldquo;A Falsificationist Account of Artificial Neural Networks&rdquo; has been accepted for presentation at this year's <a href="https://www.inf.uni-hamburg.de/en/inst/ab/eit/cepe-iacap2021.html" target="_blank">CEPE/IACAP joint conference</a>.<br><br>
 </li>
 
 <li> 02/03/2021 &ndash; My paper &ldquo;The Deep Neural Network Approach to the Reference Class Problem&rdquo; has been accepted for presentation at the upcoming <a href="https://sites.google.com/view/philsciai/home" target="_blank">workshop &ldquo;Philosophy of Science in Light of AI&rdquo;</a>.
 </li>
+  >
 </ul>
