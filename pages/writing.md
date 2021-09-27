@@ -25,7 +25,7 @@ description: Oliver Buchholz | Writing
 <h4>Theses</h4>
 
 <ul>
-<li><b>Artificial Neural Networks and the Reference Class Problem</b> (2020) <br> 
+<li><b>Artificial Neural Networks and the Reference Class Problem</b> (2020) <a href= "papers/MA_Philo.pdf" target= "_blank">[thesis]</a><br> 
  Thesis for the degree M. A. in Philosophy<br><br>
  </li>
 
