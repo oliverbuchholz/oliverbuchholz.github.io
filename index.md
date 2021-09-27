@@ -21,7 +21,7 @@ Philosophy of science, philosophy of machine learning, and the ways in which the
 <h4> News </h4>
 
 <ul>
-<li> 08/31/2021 &ndash; I will have the opportunity to present my paper &ldquo;A Means-End Account of Explainable Artificial Intelligence&rdquo; at the <a href="https://www.pt-ai.org/2021" target="_blank">4th Conference on &ldquo;Philosophy and Theory of Artificial Intelligence&rdquo;</a>.<br><br>
+<li> 08/31/2021 &ndash; My paper &ldquo;A Means-End Account of Explainable Artificial Intelligence&rdquo; has been accepted for presentation at the <a href="https://www.pt-ai.org/2021" target="_blank">4th Conference on &ldquo;Philosophy and Theory of Artificial Intelligence&rdquo;</a>.<br><br>
 </li>
 
 <li> 06/01/2021 &ndash; I had the opportunity to give a <a href="https://www.youtube.com/watch?v=gJqGN2Las0s" target="_blank">talk</a> at University of T&uuml;bingen's <a href="https://www.youtube.com/watch?v=9axjY4VCXH4&list=PLsY-pzz3J1IROY5FmJe8pdg7ni72Vzk0k" target="_blank">Philosophy of Science &amp; Methodology Colloquium</a>.<br><br>
