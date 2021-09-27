@@ -25,7 +25,6 @@ description: Oliver Buchholz | Talks
 <li><b>A Falsificationist Account of Artificial Neural Networks</b>, <a href="https://www.inf.uni-hamburg.de/en/inst/ab/eit/cepe-iacap2021.html" target="_blank">CEPE/IACAP joint conference</a>, Hamburg (virtual), July 2021.<br><br>
 </li>
   
-<li><b>A Falsificationist Account of Artificial Neural Networks</b>, <a href="https://www.youtube.com/watch?v=9axjY4VCXH4&list=PLsY-pzz3J1IROY5FmJe8pdg7ni72Vzk0k" target="_blank">Philosophy of Science &amp; Methodology Colloquium</a>, T&uuml;bingen, June 2021.<br>
-  <a href="https://www.youtube.com/watch?v=gJqGN2Las0s" target="_blank">[talk]</a><br><br>
+<li><b>A Falsificationist Account of Artificial Neural Networks</b>, <a href="https://www.youtube.com/watch?v=9axjY4VCXH4&list=PLsY-pzz3J1IROY5FmJe8pdg7ni72Vzk0k" target="_blank">Philosophy of Science &amp; Methodology Colloquium</a>, T&uuml;bingen, June 2021. <a href="https://www.youtube.com/watch?v=gJqGN2Las0s" target="_blank">[talk]</a><br><br>
 </li>
 </ul>
