@@ -7,7 +7,7 @@ description: Oliver Buchholz | Talks
 <h4>Upcoming</h4>
 
 <ul>
-<li><b>The Curve-Fitting Problem Revisited</b>, <a href="https://www.wissphil.de/gwp2022/" target="_blank">4th International Conference of the German Society for Philosophy of Science</a>, March 2022.<br><br>
+<li><b>The Curve-Fitting Problem Revisited</b>, <a href="https://www.wissphil.de/gwp2022/" target="_blank">4th International Conference of the German Society for Philosophy of Science</a>, Berlin, March 2022.<br><br>
 </li>
   
 <li><b>The Deep Neural Network Approach to the Reference Class Problem</b>, <a href="https://sites.google.com/view/philsciai/home" target="_blank">workshop &ldquo;Philosophy of Science in Light of AI&rdquo;</a>, October 2021.<br><br>
