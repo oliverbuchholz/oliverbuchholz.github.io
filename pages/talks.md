@@ -10,7 +10,7 @@ description: Oliver Buchholz | Talks
 <li><b>The Curve-Fitting Problem Revisited</b>, <a href="https://www.wissphil.de/gwp2022/" target="_blank">4th International Conference of the German Society for Philosophy of Science</a>, Berlin, March 2022.<br><br>
 </li>
   
-<li><b>The Deep Neural Network Approach to the Reference Class Problem</b>, <a href="https://sites.google.com/view/philsciai/home" target="_blank">workshop &ldquo;Philosophy of Science in Light of AI&rdquo;</a>, October 2021.<br><br>
+<li><b>The Deep Neural Network Approach to the Reference Class Problem</b>, <a href="https://sites.google.com/view/philsciai/home" target="_blank">workshop &ldquo;Philosophy of Science in Light of AI&rdquo;</a>, virtual, October 2021.<br><br>
 </li>
 </ul>
 
@@ -25,7 +25,7 @@ description: Oliver Buchholz | Talks
 <li><b>A Falsificationist Account of Artificial Neural Networks</b> (with Eric Raidl), <a href="https://sps2021.sciencesconf.org/" target="_blank">Congress of the Society for the Philosophy of Science</a>, Mons, September 2021 (not held due to Covid-19 measures).<br><br>
 </li>
   
-<li><b>A Falsificationist Account of Artificial Neural Networks</b>, <a href="https://www.inf.uni-hamburg.de/en/inst/ab/eit/cepe-iacap2021.html" target="_blank">CEPE/IACAP joint conference</a>, Hamburg (virtual), July 2021.<br><br>
+<li><b>A Falsificationist Account of Artificial Neural Networks</b>, <a href="https://www.inf.uni-hamburg.de/en/inst/ab/eit/cepe-iacap2021.html" target="_blank">CEPE/IACAP joint conference</a>, virtual, July 2021.<br><br>
 </li>
   
 <li><b>A Falsificationist Account of Artificial Neural Networks</b>, <a href="https://www.youtube.com/watch?v=9axjY4VCXH4&list=PLsY-pzz3J1IROY5FmJe8pdg7ni72Vzk0k" target="_blank">Philosophy of Science &amp; Methodology Colloquium</a>, T&uuml;bingen, June 2021. <a href="https://www.youtube.com/watch?v=gJqGN2Las0s" target="_blank">[recording]</a><br><br>
