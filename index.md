@@ -21,6 +21,9 @@ Philosophy of science, philosophy of machine learning, and the ways in which the
 <h4> News </h4>
 
 <ul>
+<li> 10/22/2021 &ndash; I will have the opportunity to give a talk about &ldquo;Building Effective Guidelines for XAI: Lessons from Philosophy&rdquo; at the <a href="https://ai-finance.org/" target="_blank">ICAIF'21</a> <a href="https://sites.google.com/view/2021-workshop-explainable-ai" target="_blank">Workshop on Explainable AI in Finance</a>.<br><br>
+</li>
+ 
 <li> 10/17/2021 &ndash; My paper &ldquo;The Curve-Fitting Problem Revisited&rdquo; has been accepted for presentation at the <a href="https://www.wissphil.de/gwp2022/" target="_blank">4th International Conference of the German Society for Philosophy of Science</a>.<br><br>
 </li>
  
