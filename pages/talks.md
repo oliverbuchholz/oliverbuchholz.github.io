@@ -10,6 +10,9 @@ description: Oliver Buchholz | Talks
 <li><b>The Curve-Fitting Problem Revisited</b>, <a href="https://www.wissphil.de/gwp2022/" target="_blank">4th International Conference of the German Society for Philosophy of Science</a>, Berlin, March 2022.<br><br>
 </li>
   
+<li><b>Building Effective Guidelines for XAI: Lessons from Philosophy</b>, <a href="https://sites.google.com/view/2021-workshop-explainable-ai" target="_blank">Workshop on Explainable AI in Finance</a> at the <a href="https://ai-finance.org/" target="_blank">2nd ACM International Conference on AI in Finance</a>, virtual, November 2021.<br><br>
+</li>
+  
 <li><b>The Deep Neural Network Approach to the Reference Class Problem</b>, <a href="https://sites.google.com/view/philsciai/home" target="_blank">workshop &ldquo;Philosophy of Science in Light of AI&rdquo;</a>, virtual, October 2021.<br><br>
 </li>
 </ul>
