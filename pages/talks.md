@@ -12,9 +12,6 @@ description: Oliver Buchholz | Talks
   
 <li><b>Building Effective Guidelines for XAI: Lessons from Philosophy</b>, <a href="https://sites.google.com/view/2021-workshop-explainable-ai" target="_blank">Workshop on Explainable AI in Finance</a> at the <a href="https://ai-finance.org/" target="_blank">2nd ACM International Conference on AI in Finance</a>, virtual, November 2021.<br><br>
 </li>
-  
-<li><b>The Deep Neural Network Approach to the Reference Class Problem</b>, <a href="https://sites.google.com/view/philsciai/home" target="_blank">workshop &ldquo;Philosophy of Science in Light of AI&rdquo;</a>, virtual, October 2021.<br><br>
-</li>
 </ul>
 
 
@@ -22,6 +19,9 @@ description: Oliver Buchholz | Talks
 <h4>Previous</h4>
 
 <ul>
+<li><b>The Deep Neural Network Approach to the Reference Class Problem</b>, <a href="https://sites.google.com/view/philsciai/home" target="_blank">workshop &ldquo;Philosophy of Science in Light of AI&rdquo;</a>, virtual, October 2021.<br><br>
+</li>
+  
 <li><b>A Means-End Account of Explainable Artificial Intelligence</b>, <a href="https://www.pt-ai.org/2021" target="_blank">4th Conference on &ldquo;Philosophy and Theory of Artificial Intelligence&rdquo;</a>, Gothenburg, September 2021.<br><br>
 </li>
   
