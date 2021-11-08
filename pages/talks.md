@@ -9,6 +9,9 @@ description: Oliver Buchholz | Talks
 <ul>
 <li><b>The Curve-Fitting Problem Revisited</b>, <a href="https://www.wissphil.de/gwp2022/" target="_blank">4th International Conference of the German Society for Philosophy of Science</a>, Berlin, March 2022.<br><br>
 </li>
+  
+<li><b>A Means-End Account of Explainable Artificial Intelligence</b>, <a href="https://uni-tuebingen.de/forschung/forschungsschwerpunkte/exzellenzcluster-maschinelles-lernen/veranstaltungen/veranstaltungen/#c1093140" target="_blank">Workshop &ldquo;Philosophy of Science Meets Machine Learning&rdquo;</a>, T&uuml;bingen, November 2021.<br><br>
+</li>
 </ul>
 
 
