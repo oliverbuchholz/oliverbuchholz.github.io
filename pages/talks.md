@@ -9,9 +9,6 @@ description: Oliver Buchholz | Talks
 <ul>
 <li><b>The Curve-Fitting Problem Revisited</b>, <a href="https://www.wissphil.de/gwp2022/" target="_blank">4th International Conference of the German Society for Philosophy of Science</a>, Berlin, March 2022.<br><br>
 </li>
-  
-<li><b>A Means-End Account of Explainable Artificial Intelligence</b>, <a href="https://uni-tuebingen.de/forschung/forschungsschwerpunkte/exzellenzcluster-maschinelles-lernen/veranstaltungen/veranstaltungen/#c1093140" target="_blank">Workshop &ldquo;Philosophy of Science Meets Machine Learning&rdquo;</a>, T&uuml;bingen, November 2021.<br><br>
-</li>
 </ul>
 
 
@@ -19,6 +16,9 @@ description: Oliver Buchholz | Talks
 <h4>Previous</h4>
 
 <ul>
+<li><b>A Means-End Account of Explainable Artificial Intelligence</b>, <a href="https://uni-tuebingen.de/forschung/forschungsschwerpunkte/exzellenzcluster-maschinelles-lernen/veranstaltungen/veranstaltungen/#c1093140" target="_blank">Workshop &ldquo;Philosophy of Science Meets Machine Learning&rdquo;</a>, T&uuml;bingen, November 2021.<br><br>
+</li>
+  
 <li><b>Building Effective Guidelines for XAI: Lessons from Philosophy</b>, <a href="https://sites.google.com/view/2021-workshop-explainable-ai" target="_blank">Workshop on Explainable AI in Finance</a> at the <a href="https://ai-finance.org/" target="_blank">2nd ACM International Conference on AI in Finance</a>, virtual, November 2021.<br><br>
 </li>
   
