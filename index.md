@@ -21,6 +21,9 @@ Philosophy of science, philosophy of machine learning, and the ways in which the
 <h4> News </h4>
 
 <ul>
+<li> 12/07/2021 &ndash; I will present my &ldquo;Means-end Account of XAI&rdquo; at the conference on <a href="https://calculemus.org/fi6/" target="_blank">Philosophy in Informatics</a>.<br><br>
+</li>
+ 
 <li> 10/22/2021 &ndash; I will have the opportunity to give a talk on &ldquo;Building Effective Guidelines for XAI: Lessons from Philosophy&rdquo; at the <a href="https://ai-finance.org/" target="_blank">ICAIF'21</a> <a href="https://sites.google.com/view/2021-workshop-explainable-ai" target="_blank">Workshop on Explainable AI in Finance</a>.<br><br>
 </li>
  
