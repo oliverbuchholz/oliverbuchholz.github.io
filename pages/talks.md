@@ -9,6 +9,9 @@ description: Oliver Buchholz | Talks
 <ul>
 <li><b>The Curve-Fitting Problem Revisited</b>, <a href="https://www.wissphil.de/gwp2022/" target="_blank">4th International Conference of the German Society for Philosophy of Science</a>, Berlin, March 2022.<br><br>
 </li>
+  
+<li><b>A Means-End Account of Explainable Artificial Intelligence</b>, <a href="https://calculemus.org/fi6/" target="_blank">Conference on Philosophy in Informatics VI</a>, virtual, December 2021.<br><br>
+</li>
 </ul>
 
 
