@@ -7,7 +7,7 @@ description: Oliver Buchholz | Talks
 <h4>Upcoming</h4>
 
 <ul>
-<li><b>The Curve-Fitting Problem Revisited</b>, <a href="https://www.wissphil.de/gwp2022/" target="_blank">4th International Conference of the German Society for Philosophy of Science</a>, Berlin, March 2022.<br><br>
+<li><b>The Curve-Fitting Problem Revisited</b>, <a href="https://www.wissphil.de/gwp2022/" target="_blank">4th International Conference of the German Society for Philosophy of Science</a>, Berlin, August 2022.<br><br>
 </li>
 </ul>
 
