@@ -7,7 +7,7 @@ description: Oliver Buchholz | Writing
 <h4>Work in progress</h4>
 
 <ul>
-<li><b>A Falsificationist Account of Artificial Neural Networks</b> (with Eric Raidl), <i>under review</i>.<br><br>
+<li><b>A Falsificationist Account of Artificial Neural Networks</b> (with Eric Raidl), <i>revision requested</i>.<br><br>
 </li>
 
 <li><b>Predicting and Explaining with Machine Learning Models: Social Science as a Touchstone</b> (with Thomas Grote), <i>under review</i>.<br><br>
