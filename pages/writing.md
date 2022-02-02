@@ -10,16 +10,16 @@ description: Oliver Buchholz | Writing
 <li><b>A Falsificationist Account of Artificial Neural Networks</b> (with Eric Raidl), <i>revision requested</i>.<br><br>
 </li>
 
-<li><b>Predicting and Explaining with Machine Learning Models: Social Science as a Touchstone</b> (with Thomas Grote), <i>under review</i>.<br><br>
+<li><b>The Deep Neural Network Approach to the Reference Class Problem</b>, <i>revision requested</i>.<br><br>
 </li>
  
-<li><b>The Deep Neural Network Approach to the Reference Class Problem</b>, <i>under review</i>.<br><br>
+<li><b>Predicting and Explaining with Machine Learning Models: Social Science as a Touchstone</b> (with Thomas Grote), <i>under review</i>.<br><br>
 </li>
  
 <li><b>A Means-End Account of Explainable Artificial Intelligence</b>, <i>in preparation</i>.<br><br>
 </li>
  
-<li>A paper about the curve-fitting problem, <i>in preparation</i>.<br><br>
+<li><b>The Curve-Fitting Problem Revisited</b>, <i>in preparation</i>.<br><br>
 </li>
 </ul>
 
