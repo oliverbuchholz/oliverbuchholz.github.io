@@ -21,7 +21,7 @@ Philosophy of science, philosophy of machine learning, and the ways in which the
 <h4> News </h4>
 
 <ul>
-<li> 01/31/2022 &ndash; My paper &ldquo;The Curve-Fitting Problem Revisited&rdquo; has been accepted for presentation at the conference on <a href="https://www.ifzg.hr/fmsph/" target="_blank">&ldquo;Formal Methods and Science in Philosophy IV&rdquo;</a>.<br><br>
+<li> 01/31/2022 &ndash; My paper &ldquo;The Curve-Fitting Problem Revisited&rdquo; has been accepted for presentation at the conference <a href="https://www.ifzg.hr/fmsph/" target="_blank">&ldquo;Formal Methods and Science in Philosophy IV&rdquo;</a>.<br><br>
 </li>
  
 <li> 12/07/2021 &ndash; I will present my &ldquo;Means-end Account of XAI&rdquo; at the conference on <a href="https://calculemus.org/fi6/" target="_blank">Philosophy in Informatics</a>.<br><br>
