@@ -21,16 +21,16 @@ Philosophy of science, philosophy of machine learning, and the ways in which the
 <h4> News </h4>
 
 <ul>
+<li> 03/04/2021 &ndash; I will have the opportunity to give a talk on &ldquo;Building Effective Guidelines for Machine Learning: Lessons from Means-End Epistemology&rdquo; at the <a href="https://philevents.org/event/show/95357" target="_blank">Conference on the Philosophy of Data Science: Data Science Governance</a>.<br><br>
+</li>
+ 
+<li> 03/02/2022 &ndash; My joint paper with Karoline Reinhardt, &ldquo;XAI: On Explainability and the Obligation to Explain&rdquo; has been accepted for presentation at the workshop <a href="https://juanmduran.net/xai4/" target="_blank">&ldquo;Issues in XAI &num;4 &ndash; Explanatory AI: Between Ethics and Epistemology&rdquo;</a>.<br><br>
+</li>
+ 
 <li> 02/01/2022 &ndash; I am co-organizing the <a href="https://philevents.org/event/show/96706" target="_blank">PhilML22 Graduate Workshop on Philosophy of Machine Learning</a>. The <a href="https://philevents.org/event/show/96714" target="_blank">call for papers</a> is open, deadline for submissions is March 18.<br><br>
 </li>
  
 <li> 01/31/2022 &ndash; My paper &ldquo;The Curve-Fitting Problem Revisited&rdquo; has been accepted for presentation at the conference <a href="https://www.ifzg.hr/fmsph/" target="_blank">&ldquo;Formal Methods and Science in Philosophy IV&rdquo;</a>.<br><br>
-</li>
- 
-<li> 12/07/2021 &ndash; I will present my &ldquo;Means-end Account of XAI&rdquo; at the conference on <a href="https://calculemus.org/fi6/" target="_blank">Philosophy in Informatics</a>.<br><br>
-</li>
- 
-<li> 10/22/2021 &ndash; I will have the opportunity to give a talk on &ldquo;Building Effective Guidelines for XAI: Lessons from Philosophy&rdquo; at the <a href="https://ai-finance.org/" target="_blank">ICAIF'21</a> <a href="https://sites.google.com/view/2021-workshop-explainable-ai" target="_blank">Workshop on Explainable AI in Finance</a>.<br><br>
 </li>
  
 <li> 06/01/2021 &ndash; I had the opportunity to give a <a href="https://www.youtube.com/watch?v=gJqGN2Las0s" target="_blank">talk</a> at University of T&uuml;bingen's <a href="https://www.youtube.com/watch?v=9axjY4VCXH4&list=PLsY-pzz3J1IROY5FmJe8pdg7ni72Vzk0k" target="_blank">Philosophy of Science &amp; Methodology Colloquium</a>.<br><br>
