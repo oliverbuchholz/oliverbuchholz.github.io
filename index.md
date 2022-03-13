@@ -24,7 +24,7 @@ Philosophy of science, philosophy of machine learning, and the ways in which the
 <li> 03/04/2021 &ndash; I will have the opportunity to give a talk on &ldquo;Building Effective Guidelines for Machine Learning: Lessons from Means-End Epistemology&rdquo; at the <a href="https://philevents.org/event/show/95357" target="_blank">Conference on the Philosophy of Data Science: Data Science Governance</a>.<br><br>
 </li>
  
-<li> 03/02/2022 &ndash; My joint paper with Karoline Reinhardt, &ldquo;XAI: On Explainability and the Obligation to Explain&rdquo; has been accepted for presentation at the workshop <a href="https://juanmduran.net/xai4/" target="_blank">&ldquo;Issues in XAI &num;4 &ndash; Explanatory AI: Between Ethics and Epistemology&rdquo;</a>.<br><br>
+<li> 03/02/2022 &ndash; My joint paper with Karoline Reinhardt, &ldquo;XAI: On Explainability and the Obligation to Explain&rdquo;, has been accepted for presentation at the workshop <a href="https://juanmduran.net/xai4/" target="_blank">&ldquo;Issues in XAI &num;4 &ndash; Explanatory AI: Between Ethics and Epistemology&rdquo;</a>.<br><br>
 </li>
  
 <li> 02/01/2022 &ndash; I am co-organizing the <a href="https://philevents.org/event/show/96706" target="_blank">PhilML22 Graduate Workshop on Philosophy of Machine Learning</a>. The <a href="https://philevents.org/event/show/96714" target="_blank">call for papers</a> is open, deadline for submissions is March 18.<br><br>
