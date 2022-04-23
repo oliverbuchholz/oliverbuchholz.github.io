@@ -18,9 +18,6 @@ description: Oliver Buchholz | Talks
   
 <li><b>XAI: On Explainability and the Obligation to Explain</b> (with K. Reinhardt), <a href="https://juanmduran.net/xai4/" target="_blank">Workshop on &ldquo;Issues in XAI &num;4 &ndash; Explanatory AI: Between Ethics and Epistemology&rdquo;</a>, Delft, May 2022.<br><br>
 </li>
-  
-<li><b>The Curve-Fitting Problem Revisited</b>, <a href="https://www.ifzg.hr/fmsph/" target="_blank">Conference on Formal Methods and Science in Philosophy IV</a>, Dubrovnik, April 2022.<br><br>
-</li>
 </ul>
 
 
@@ -28,6 +25,9 @@ description: Oliver Buchholz | Talks
 <h4>Previous</h4>
 
 <ul>
+<li><b>The Curve-Fitting Problem Revisited</b>, <a href="https://www.ifzg.hr/fmsph/" target="_blank">Conference on Formal Methods and Science in Philosophy IV</a>, Dubrovnik, April 2022.<br><br>
+</li>
+  
 <li><b>A Means-End Account of Explainable Artificial Intelligence</b>, <a href="https://calculemus.org/fi6/" target="_blank">Conference on Philosophy in Informatics VI</a>, virtual, December 2021.<br><br>
 </li>
   
