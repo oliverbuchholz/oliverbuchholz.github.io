@@ -13,7 +13,7 @@ description: Oliver Buchholz | Talks
 <li><b>The Curve-Fitting Problem Revisited</b>, <a href="https://www.wissphil.de/gwp2022/" target="_blank">4th International Conference of the German Society for Philosophy of Science</a>, Berlin, August 2022.<br><br>
 </li>
   
-<li><b>Building Effective Guidelines for Machine Learning: Lessons from Means-End Epistemology</b>, <a href="https://philevents.org/event/show/95357" target="_blank">Conference on the Philosophy of Data Science: Data Science Governance</a>, Frankfurt a. M., June 2022.<br><br>
+<li><b>Building Effective Guidelines for Machine Learning: Lessons from Means-End Epistemology</b>, <a href="https://www.frankfurt-school.de/home/research/conferences-workshops/ds-2022" target="_blank">Conference on the Philosophy of Data Science: Data Science Governance</a>, Frankfurt a. M., June 2022.<br><br>
 </li>
   
 <li><b>XAI: On Explainability and the Obligation to Explain</b> (with K. Reinhardt), <a href="https://juanmduran.net/xai4/" target="_blank">Workshop on &ldquo;Issues in XAI &num;4 &ndash; Explanatory AI: Between Ethics and Epistemology&rdquo;</a>, Delft, May 2022.<br><br>
