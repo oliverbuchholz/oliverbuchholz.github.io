@@ -7,7 +7,7 @@ description: Oliver Buchholz | Writing
 <h4>Work in progress</h4>
 
 <ul>
-<li><b>A Falsificationist Account of Artificial Neural Networks</b> (with Eric Raidl), <i>revision requested</i>.<br><br>
+<li><b>A Falsificationist Account of Artificial Neural Networks</b> (with Eric Raidl), <i>revision requested</i>. <a href= "https://arxiv.org/abs/2205.01421" target= "_blank">[preprint]</a><br><br>
 </li>
 
 <li><b>The Deep Neural Network Approach to the Reference Class Problem</b>, <i>revision requested</i>.<br><br>
