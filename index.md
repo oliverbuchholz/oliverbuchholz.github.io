@@ -21,6 +21,9 @@ Philosophy of science, philosophy of machine learning, and the ways in which the
 <h4> News </h4>
 
 <ul>
+<li> 05/03/2022 &ndash; A preprint of my joint paper with Eric Raidl, &ldquo;A Falsificationist Account of Artificial Neural Networks&rdquo;, is now available <a href="https://arxiv.org/abs/2205.01421" target="_blank">here</a>.<br><br>
+</li>
+ 
 <li> 03/17/2021 &ndash; Together with Karoline Reinhardt, I will give a talk on &ldquo;How to Use Explainable AI Responsibly&rdquo; at the <a href="https://grk2073.org/eesconference2022/" target="_blank">International Conference on Engaging Ethics and Epistemology in Science</a>.<br><br>
 </li>
  
