@@ -21,6 +21,9 @@ Philosophy of science, philosophy of machine learning, and the ways in which the
 <h4> News </h4>
 
 <ul>
+<li> 05/06/2022 &ndash; My paper &ldquo;The Curve-Fitting Problem Revisited&rdquo; has been accepted for presentation at <a href="https://gap11.de/en/index.html" target="_blank">GAP.11</a>, the 11th international congress of the <a href="https://gap-im-netz.de/en/" target="_blank">German Society for Analytic Philosophy</a>.<br><br>
+</li>
+ 
 <li> 05/03/2022 &ndash; My joint paper with Eric Raidl, &ldquo;A Falsificationist Account of Artificial Neural Networks&rdquo;, is now available as a preprint <a href="https://arxiv.org/abs/2205.01421" target="_blank">here</a>.<br><br>
 </li>
  
@@ -34,11 +37,5 @@ Philosophy of science, philosophy of machine learning, and the ways in which the
 </li>
  
 <li> 02/01/2022 &ndash; I am co-organizing the <a href="https://philevents.org/event/show/96706" target="_blank">PhilML22 Graduate Workshop on Philosophy of Machine Learning</a>. The <a href="https://philevents.org/event/show/96714" target="_blank">call for papers</a> is now closed, deadline for submissions was March 18.<br><br>
-</li>
- 
-<li> 01/31/2022 &ndash; My paper &ldquo;The Curve-Fitting Problem Revisited&rdquo; has been accepted for presentation at the conference <a href="https://www.ifzg.hr/fmsph/" target="_blank">&ldquo;Formal Methods and Science in Philosophy IV&rdquo;</a>.<br><br>
-</li>
- 
-<li> 06/01/2021 &ndash; I had the opportunity to give a <a href="https://www.youtube.com/watch?v=gJqGN2Las0s" target="_blank">talk</a> at University of T&uuml;bingen's <a href="https://www.youtube.com/watch?v=9axjY4VCXH4&list=PLsY-pzz3J1IROY5FmJe8pdg7ni72Vzk0k" target="_blank">Philosophy of Science &amp; Methodology Colloquium</a>.<br><br>
 </li>
 </ul>
