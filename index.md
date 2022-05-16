@@ -24,7 +24,7 @@ Philosophy of science, philosophy of machine learning, and the ways in which the
 <li> 05/06/2022 &ndash; My paper &ldquo;The Curve-Fitting Problem Revisited&rdquo; has been accepted for presentation at <a href="https://gap11.de/en/index.html" target="_blank">GAP.11</a>, the 11th international congress of the <a href="https://gap-im-netz.de/en/" target="_blank">German Society for Analytic Philosophy</a>.<br><br>
 </li>
  
-<li> 05/03/2022 &ndash; My joint paper with Eric Raidl, &ldquo;A Falsificationist Account of Artificial Neural Networks&rdquo;, is now available as a preprint <a href="https://arxiv.org/abs/2205.01421" target="_blank">here</a>.<br><br>
+<li> 05/03/2022 &ndash; My joint paper with Eric Raidl, &ldquo;A Falsificationist Account of Artificial Neural Networks&rdquo;, is now available as a <a href="https://arxiv.org/abs/2205.01421" target="_blank">preprint</a>.<br><br>
 </li>
  
 <li> 03/17/2022 &ndash; Together with Karoline Reinhardt, I will give a talk on &ldquo;How to Use Explainable AI Responsibly&rdquo; at the <a href="https://grk2073.org/eesconference2022/" target="_blank">International Conference on Engaging Ethics and Epistemology in Science</a>.<br><br>
