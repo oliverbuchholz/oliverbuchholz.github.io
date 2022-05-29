@@ -21,9 +21,10 @@ description: Oliver Buchholz | Writing
  
 <li><b>The Curve-Fitting Problem Revisited</b>, <i>in preparation</i>.<br><br>
 </li>
+ 
+<li><b>XAI: On Explainability and the Obligation to Explain</b> (with K. Reinhardt), <i>in preparation</i>.<br><br>
+</li>
 </ul>
-
-
 
 <h4>Theses</h4>
 
