@@ -21,7 +21,7 @@ Philosophy of science, philosophy of machine learning, and the ways in which the
 <h4> News </h4>
 
 <ul>
-<li> 10/06/2022 &ndash; My joint paper with Eric Raidl, &ldquo;A Falsificationist Account of Artificial Neural Networks&rdquo;, has been accepted for publication at <i>The British Journal for the Philosophy of Science</i>. It is already available as a <a href="https://arxiv.org/abs/2205.01421" target="_blank">preprint</a>.<br><br>
+<li> 06/10/2022 &ndash; My joint paper with Eric Raidl, &ldquo;A Falsificationist Account of Artificial Neural Networks&rdquo;, has been accepted for publication at <i>The British Journal for the Philosophy of Science</i>. It is already available as a <a href="https://arxiv.org/abs/2205.01421" target="_blank">preprint</a>.<br><br>
 </li>
  
 <li> 05/06/2022 &ndash; My paper &ldquo;The Curve-Fitting Problem Revisited&rdquo; has been accepted for presentation at <a href="https://gap11.de/en/index.html" target="_blank">GAP.11</a>, the 11th international congress of the <a href="https://gap-im-netz.de/en/" target="_blank">German Society for Analytic Philosophy</a>.<br><br>
