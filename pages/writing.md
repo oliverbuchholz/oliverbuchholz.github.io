@@ -7,7 +7,7 @@ description: Oliver Buchholz | Writing
 <h4>Publications</h4>
 
 <ul>
-<li><b>A Falsificationist Account of Artificial Neural Networks</b> (with Eric Raidl), accepted for publication at <i>The British Journal for the Philosophy of Science</i>.<br><a href= "https://arxiv.org/abs/2205.01421" target= "_blank">[preprint]</a><br><br>
+<li><b>A Falsificationist Account of Artificial Neural Networks</b> (with Eric Raidl), accepted for publication at <i>The British Journal for the Philosophy of Science</i>. <a href= "https://arxiv.org/abs/2205.01421" target= "_blank">[preprint]</a><br><br>
 </li>
 </ul>
 
