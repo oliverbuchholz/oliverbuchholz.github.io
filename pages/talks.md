@@ -7,10 +7,13 @@ description: Oliver Buchholz | Talks
 <h4>Upcoming</h4>
 
 <ul>
+<li><b>A Falsificationist Account of Artificial Neural Networks</b> (with Eric Raidl), <a href="https://www.lse.ac.uk/philosophy/blog/2022/02/03/imre-lakatos-centenary-conference/" target="_blank">Imre Lakatos Centenary Conference</a>, London, November 2022.<br><br>
+</li>
+  
 <li><b>The Curve-Fitting Problem Revisited</b>, <a href="https://gap11.de/en/index.html" target="_blank">11th International Congress of the German Society for Analytic Philosophy (GAP.11)</a>, Berlin, September 2022.<br><br>
 </li>
   
-<li><b>How to Use Explainable AI Responsibly</b> (with K. Reinhardt), <a href="https://grk2073.org/eesconference2022/" target="_blank">International Conference on Engaging Ethics and Epistemology in Science</a>, Hannover, September 2022.<br><br>
+<li><b>How to Use Explainable AI Responsibly</b> (with Karoline Reinhardt), <a href="https://grk2073.org/eesconference2022/" target="_blank">International Conference on Engaging Ethics and Epistemology in Science</a>, Hannover, September 2022.<br><br>
 </li>
   
 <li><b>The Curve-Fitting Problem Revisited</b>, <a href="https://www.wissphil.de/gwp2022/" target="_blank">4th International Conference of the German Society for Philosophy of Science</a>, Berlin, August 2022.<br><br>
@@ -25,7 +28,7 @@ description: Oliver Buchholz | Talks
 <li><b>Building Effective Guidelines for Machine Learning: Lessons from Means-End Epistemology</b>, <a href="https://www.frankfurt-school.de/home/research/conferences-workshops/ds-2022" target="_blank">Conference on the Philosophy of Data Science: Data Science Governance</a>, Frankfurt a. M., June 2022.<br><br>
 </li>
   
-<li><b>XAI: On Explainability and the Obligation to Explain</b> (with K. Reinhardt), <a href="https://juanmduran.net/xai4/" target="_blank">Workshop on &ldquo;Issues in XAI &num;4 &ndash; Explanatory AI: Between Ethics and Epistemology&rdquo;</a>, Delft, May 2022.<br><br>
+<li><b>XAI: On Explainability and the Obligation to Explain</b> (with Karoline Reinhardt), <a href="https://juanmduran.net/xai4/" target="_blank">Workshop on &ldquo;Issues in XAI &num;4 &ndash; Explanatory AI: Between Ethics and Epistemology&rdquo;</a>, Delft, May 2022.<br><br>
 </li>
   
 <li><b>The Curve-Fitting Problem Revisited</b>, <a href="https://www.ifzg.hr/fmsph/" target="_blank">Conference on Formal Methods and Science in Philosophy IV</a>, Dubrovnik, April 2022.<br><br>
