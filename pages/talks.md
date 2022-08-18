@@ -22,7 +22,7 @@ description: Oliver Buchholz | Talks
 <h4>Previous</h4>
 
 <ul>
-<li><b>The Curve-Fitting Problem Revisited</b>, <a href="https://www.wissphil.de/gwp2022/" target="_blank">4th International Conference of the German Society for Philosophy of Science</a>, Berlin, August 2022.<br><br>
+<li><b>The Curve-Fitting Problem Revisited</b>, <a href="https://www.wissphil.de/gwp2022/" target="_blank">4th International Conference of the German Society for Philosophy of Science (GWP.2022)</a>, Berlin, August 2022.<br><br>
 </li>
   
 <li><b>Building Effective Guidelines for Machine Learning: Lessons from Means-End Epistemology</b>, <a href="https://www.frankfurt-school.de/home/research/conferences-workshops/ds-2022" target="_blank">Conference on the Philosophy of Data Science: Data Science Governance</a>, Frankfurt a. M., June 2022.<br><br>
