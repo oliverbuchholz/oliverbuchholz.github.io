@@ -12,9 +12,6 @@ description: Oliver Buchholz | Talks
   
 <li><b>How to Use Explainable AI Responsibly</b> (with Karoline Reinhardt), <a href="https://grk2073.org/eesconference2022/" target="_blank">International Conference on Engaging Ethics and Epistemology in Science</a>, Hannover, September 2022.<br><br>
 </li>
-  
-<li><b>The Curve-Fitting Problem Revisited</b>, <a href="https://gap11.de/en/index.html" target="_blank">11th International Congress of the German Society for Analytic Philosophy (GAP.11)</a>, Berlin, September 2022.<br><br>
-</li>
 </ul>
 
 
@@ -22,6 +19,9 @@ description: Oliver Buchholz | Talks
 <h4>Previous</h4>
 
 <ul>
+<li><b>The Curve-Fitting Problem Revisited</b>, <a href="https://gap11.de/en/index.html" target="_blank">11th International Congress of the German Society for Analytic Philosophy (GAP.11)</a>, Berlin, September 2022.<br><br>
+</li>
+  
 <li><b>The Curve-Fitting Problem Revisited</b>, <a href="https://www.wissphil.de/gwp2022/" target="_blank">4th International Conference of the German Society for Philosophy of Science (GWP.2022)</a>, Berlin, August 2022.<br><br>
 </li>
   
