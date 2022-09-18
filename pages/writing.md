@@ -17,7 +17,10 @@ description: Oliver Buchholz | Writing
 <li><b>The Deep Neural Network Approach to the Reference Class Problem</b>, <i>revision requested</i>.<br><br>
 </li>
  
-<li><b>Predicting and Explaining with Machine Learning Models: Social Science as a Touchstone</b> (with Thomas Grote), <i>under review</i>.<br><br>
+<li><b>Analyzing the Relationship between Physicians' Experience and Surgery Duration</b> (with Christopher Haager, Katja Schimmelpfeng, Jan Schoenfelder, and Jens Brunner), <i>revision requested</i>.<br><br>
+</li>
+ 
+<li><b>Predicting and Explaining with Machine Learning Models: Social Science as a Touchstone</b> (with Thomas Grote), <i>revision requested</i>.<br><br>
 </li>
  
 <li><b>A Means-End Account of Explainable Artificial Intelligence</b>, <i>submitted</i>.<br><a href= "https://arxiv.org/abs/2208.04638" target= "_blank">[preprint]</a><br><br>
