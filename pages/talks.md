@@ -7,7 +7,7 @@ description: Oliver Buchholz | Talks
 <h4>Upcoming</h4>
 
 <ul>
-<li><b>A Falsificationist Account of Artificial Neural Networks</b> (with Eric Raidl), <a href="https://www.lse.ac.uk/philosophy/blog/2022/02/03/imre-lakatos-centenary-conference/" target="_blank">Imre Lakatos Centenary Conference</a>, London, November 2022.<br><br>
+<li><b>A Falsificationist Account of Artificial Neural Networks</b> (with Eric Raidl), <a href="https://www.lse.ac.uk/philosophy/events/imre-lakatos-centenary-conference/" target="_blank">Imre Lakatos Centenary Conference</a>, London, November 2022.<br><br>
 </li>
   
 <li><b>How to Use Explainable AI Responsibly</b> (with Karoline Reinhardt), <a href="https://grk2073.org/eesconference2022/" target="_blank">International Conference on Engaging Ethics and Epistemology in Science</a>, Hannover, September 2022.<br><br>
