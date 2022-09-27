@@ -24,7 +24,7 @@ Philosophy of science, philosophy of machine learning, and the ways in which the
 <li> 02/01/2022 &ndash; The website and program for the <a href="https://philevents.org/event/show/96706" target="_blank">PhilML22 Graduate Workshop on Philosophy of Machine Learning</a> that I am co-organizing with Sara Blanco are now online. Feel free to have a look <a href="https://sites.google.com/view/philml2022/graduate-workshop/program" target="_blank">here</a>!<br><br>
 </li>
  
-<li> 06/13/2022 &ndash; I am happy to be part of the <a href="https://www.lse.ac.uk/philosophy/blog/2022/02/03/imre-lakatos-centenary-conference/" target="_blank">Imre Lakatos Centenary Conference</a> that celebrates the centenary of Lakatos' birth. I will give a talk on how his refined version of falsificationism can help to understand the underlying methodology of artificial neural networks.<br><br>
+<li> 06/13/2022 &ndash; I am happy to be part of the <a href="https://www.lse.ac.uk/philosophy/events/imre-lakatos-centenary-conference/" target="_blank">Imre Lakatos Centenary Conference</a> that celebrates the centenary of Lakatos' birth. I will give a talk on how his refined version of falsificationism can help to understand the underlying methodology of artificial neural networks.<br><br>
 </li>
  
 <li> 06/10/2022 &ndash; My joint paper with Eric Raidl, &ldquo;A Falsificationist Account of Artificial Neural Networks&rdquo;, has been accepted for publication at <i>The British Journal for the Philosophy of Science</i>. It is already available as a <a href="https://arxiv.org/abs/2205.01421" target="_blank">preprint</a>.<br><br>
