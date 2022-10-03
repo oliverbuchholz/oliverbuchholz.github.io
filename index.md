@@ -33,9 +33,6 @@ Philosophy of science, philosophy of machine learning, and the ways in which the
 <li> 05/06/2022 &ndash; My paper &ldquo;The Curve-Fitting Problem Revisited&rdquo; has been accepted for presentation at <a href="https://gap11.de/en/index.html" target="_blank">GAP.11</a>, the 11th international congress of the <a href="https://gap-im-netz.de/en/" target="_blank">German Society for Analytic Philosophy</a>.<br><br>
 </li>
  
-<li> 03/17/2022 &ndash; Together with Karoline Reinhardt, I will give a talk on &ldquo;How to Use Explainable AI Responsibly&rdquo; at the <a href="https://grk2073.org/eesconference2022/" target="_blank">International Conference on Engaging Ethics and Epistemology in Science</a>.<br><br>
-</li>
- 
 <li> 03/04/2022 &ndash; I will have the opportunity to give a talk on &ldquo;Building Effective Guidelines for Machine Learning: Lessons from Means-End Epistemology&rdquo; at the <a href="https://www.frankfurt-school.de/home/research/conferences-workshops/ds-2022" target="_blank">Conference on the Philosophy of Data Science: Data Science Governance</a>.<br><br>
 </li>
 </ul>
