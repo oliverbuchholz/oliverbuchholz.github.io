@@ -23,7 +23,7 @@ description: Oliver Buchholz | Writing
 <li><b>Predicting and Explaining with Machine Learning Models: Social Science as a Touchstone</b> (with Thomas Grote), <i>revision requested</i>.<br><br>
 </li>
  
-<li><b>A Means-End Account of Explainable Artificial Intelligence</b>, <i>submitted</i>.<br><a href= "https://arxiv.org/abs/2208.04638" target= "_blank">[preprint]</a><br><br>
+<li><b>A Means-End Account of Explainable Artificial Intelligence</b>, <i>under review</i>.<br><a href= "https://arxiv.org/abs/2208.04638" target= "_blank">[preprint]</a><br><br>
 </li>
  
 <li><b>The Curve-Fitting Problem Revisited</b>, <i>in preparation</i>.<br><br>
