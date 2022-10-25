@@ -7,6 +7,9 @@ description: Oliver Buchholz | Talks
 <h4>Upcoming</h4>
 
 <ul>
+<li><b>A Means-End Account of Explainable Artificial Intelligence</b>, <a href="https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=340155" target="_blank">Research Colloquium in Theoretical Philosophy</a>, Frankfurt a. M., January 2023.<br><br>
+</li>
+  
 <li><b>A Falsificationist Account of Artificial Neural Networks</b> (with Eric Raidl), <a href="https://www.lse.ac.uk/philosophy/events/imre-lakatos-centenary-conference/" target="_blank">Imre Lakatos Centenary Conference</a>, London, November 2022.<br><br>
 </li>
 </ul>
