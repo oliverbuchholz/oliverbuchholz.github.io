@@ -9,9 +9,6 @@ description: Oliver Buchholz | Talks
 <ul>
 <li><b>A Means-End Account of Explainable Artificial Intelligence</b>, <a href="https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=340155" target="_blank">Research Colloquium in Theoretical Philosophy</a>, Frankfurt a. M., January 2023.<br><br>
 </li>
-  
-<li><b>A Falsificationist Account of Artificial Neural Networks</b> (with Eric Raidl), <a href="https://www.lse.ac.uk/philosophy/events/imre-lakatos-centenary-conference/" target="_blank">Imre Lakatos Centenary Conference</a>, London, November 2022.<br><br>
-</li>
 </ul>
 
 
@@ -19,7 +16,10 @@ description: Oliver Buchholz | Talks
 <h4>Previous</h4>
 
 <ul>
-<li><b>How to Use Explainable AI Responsibly</b> (with Karoline Reinhardt), <a href="https://grk2073.org/eesconference2022/" target="_blank">International Conference on Engaging Ethics and Epistemology in Science</a>, Hannover, September 2022 (not held).<br><br>
+<li><b>A Falsificationist Account of Artificial Neural Networks</b> (with Eric Raidl), <a href="https://www.lse.ac.uk/philosophy/events/imre-lakatos-centenary-conference/" target="_blank">Imre Lakatos Centenary Conference</a>, London, November 2022.<br><br>
+</li>
+  
+<li><b>How to Use Explainable AI Responsibly</b> (with Karoline Reinhardt), <a href="https://grk2073.org/eesconference2022/" target="_blank">International Conference on Engaging Ethics and Epistemology in Science</a>, Hannover, September 2022.<br><br>
 </li>
   
 <li><b>The Curve-Fitting Problem Revisited</b>, <a href="https://gap11.de/en/index.html" target="_blank">11th International Congress of the German Society for Analytic Philosophy (GAP.11)</a>, Berlin, September 2022.<br><br>
