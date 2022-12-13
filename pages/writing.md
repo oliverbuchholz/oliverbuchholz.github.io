@@ -9,6 +9,9 @@ description: Oliver Buchholz | Writing
 <ul>
 <li><b>A Falsificationist Account of Artificial Neural Networks</b> (with Eric Raidl), forthcoming at <i>The British Journal for the Philosophy of Science</i>.<br><a href= "https://arxiv.org/abs/2205.01421" target= "_blank">[preprint]</a> <a href= "https://doi.org/10.1086/721797" target= "_blank">[journal]</a><br><br>
 </li>
+ 
+<li><b>Analyzing the Relationship between Physicians' Experience and Surgery Duration</b> (with Christopher Haager, Katja Schimmelpfeng, Jan Schoenfelder, and Jens Brunner), accepted for publication at <i>Operations Research for Health Care</i>.<br><br>
+</li>
 </ul>
 
 <h4>Work in progress</h4>
@@ -17,10 +20,7 @@ description: Oliver Buchholz | Writing
 <li><b>The Deep Neural Network Approach to the Reference Class Problem</b>, <i>revision requested</i>.<br><br>
 </li>
  
-<li><b>Analyzing the Relationship between Physicians' Experience and Surgery Duration</b> (with Christopher Haager, Katja Schimmelpfeng, Jan Schoenfelder, and Jens Brunner), <i>revision requested</i>.<br><br>
-</li>
- 
-<li><b>Predicting and Explaining with Machine Learning Models: Social Science as a Touchstone</b> (with Thomas Grote), <i>revision requested</i>.<br><br>
+<li><b>Predicting and Explaining with Machine Learning Models: Social Science as a Touchstone</b> (with Thomas Grote), <i>under review</i>.<br><br>
 </li>
  
 <li><b>A Means-End Account of Explainable Artificial Intelligence</b>, <i>under review</i>.<br><a href= "https://arxiv.org/abs/2208.04638" target= "_blank">[preprint]</a><br><br>
