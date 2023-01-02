@@ -10,7 +10,7 @@ description: Oliver Buchholz | Writing
 <li><b>A Falsificationist Account of Artificial Neural Networks</b> (with Eric Raidl), forthcoming at <i>The British Journal for the Philosophy of Science</i>.<br><a href= "https://arxiv.org/abs/2205.01421" target= "_blank">[preprint]</a> <a href= "https://doi.org/10.1086/721797" target= "_blank">[journal]</a><br><br>
 </li>
  
-<li><b>Analyzing the Relationship between Physicians' Experience and Surgery Duration</b> (with Christopher Haager, Katja Schimmelpfeng, Jan Schoenfelder, and Jens Brunner), accepted for publication at <i>Operations Research for Health Care</i>.<br><a href= "doi.org/10.1016/j.orhc.2022.100377" target= "_blank">[journal]</a><br><br>
+<li><b>Analyzing the Relationship between Physicians' Experience and Surgery Duration</b> (with Christopher Haager, Katja Schimmelpfeng, Jan Schoenfelder, and Jens Brunner), accepted for publication at <i>Operations Research for Health Care</i>.<br><a href= "https://doi.org/10.1016/j.orhc.2022.100377" target= "_blank">[journal]</a><br><br>
 </li>
 </ul>
 
