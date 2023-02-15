@@ -7,6 +7,10 @@ description: Oliver Buchholz | Writing
 <h4>Publications</h4>
 
 <ul>
+<li><b>The Deep Neural Network Approach to the Reference Class Problem</b>, accepted for publication at <i>Synthese</i>.<br>
+ [preprint coming soon]<br><br>
+</li>
+ 
 <li><b>A Falsificationist Account of Artificial Neural Networks</b> (with Eric Raidl), forthcoming at <i>The British Journal for the Philosophy of Science</i>.<br><a href= "https://arxiv.org/abs/2205.01421" target= "_blank">[preprint]</a> <a href= "https://doi.org/10.1086/721797" target= "_blank">[journal]</a><br><br>
 </li>
  
@@ -17,10 +21,10 @@ description: Oliver Buchholz | Writing
 <h4>Work in progress</h4>
 
 <ul>
-<li><b>The Deep Neural Network Approach to the Reference Class Problem</b>, <i>revision requested</i>.<br><br>
+<li><b>A Means-End Account of Explainable Artificial Intelligence</b>, <i>under review</i>.<br><a href= "https://arxiv.org/abs/2208.04638" target= "_blank">[preprint]</a><br><br>
 </li>
  
-<li><b>A Means-End Account of Explainable Artificial Intelligence</b>, <i>under review</i>.<br><a href= "https://arxiv.org/abs/2208.04638" target= "_blank">[preprint]</a><br><br>
+<li><b>Microfoundations of Physician Behavior: Machine Learning, Predictions, and the (Im)Possibility of Public Health Interventions</b> (with Thomas Grote), <i>under review</i>.<br><br>
 </li>
  
 <li><b>Predicting and Explaining with Machine Learning Models: Social Science as a Touchstone</b> (with Thomas Grote), <i>under review</i>.<br><br>
