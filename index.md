@@ -21,6 +21,9 @@ Philosophy of science, philosophy of machine learning, and the ways in which the
 <h4> News </h4>
 
 <ul>
+<li> 06/10/2022 &ndash; My paper &ldquo;The Deep Neural Network Approach to the Reference Class Problem&rdquo; has been accepted for publication at <i>Synthese</i>.<br><br>
+</li>
+ 
 <li> 10/02/2022 &ndash; The website and program for the <a href="https://philevents.org/event/show/96706" target="_blank">PhilML22 Graduate Workshop on Philosophy of Machine Learning</a> that I am co-organizing with Sara Blanco are now online. Feel free to have a look <a href="https://sites.google.com/view/philml2022/graduate-workshop/program" target="_blank">here</a>!<br><br>
 </li>
  
