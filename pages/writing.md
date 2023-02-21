@@ -8,7 +8,7 @@ description: Oliver Buchholz | Writing
 
 <ul>
 <li><b>The Deep Neural Network Approach to the Reference Class Problem</b>, accepted for publication at <i>Synthese</i>.<br>
- [preprint coming soon]<br><br>
+ <a href= "http://philsci-archive.pitt.edu/21777/" target= "_blank">[preprint]</a><br><br>
 </li>
  
 <li><b>A Falsificationist Account of Artificial Neural Networks</b> (with Eric Raidl), forthcoming at <i>The British Journal for the Philosophy of Science</i>.<br><a href= "https://arxiv.org/abs/2205.01421" target= "_blank">[preprint]</a> <a href= "https://doi.org/10.1086/721797" target= "_blank">[journal]</a><br><br>
