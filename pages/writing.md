@@ -7,14 +7,14 @@ description: Oliver Buchholz | Writing
 <h4>Publications</h4>
 
 <ul>
-<li><b>The Deep Neural Network Approach to the Reference Class Problem</b>, forthcoming at <i>Synthese</i>.<br>
+<li><b>The Deep Neural Network Approach to the Reference Class Problem</b>, <i>Synthese</i>, 2023.<br>
  <a href= "http://philsci-archive.pitt.edu/21777/" target= "_blank">[preprint]</a> <a href= "https://doi.org/10.1007/s11229-023-04110-9" target= "_blank">[journal]</a><br><br>
 </li>
  
 <li><b>A Falsificationist Account of Artificial Neural Networks</b> (with Eric Raidl), forthcoming at <i>The British Journal for the Philosophy of Science</i>.<br><a href= "https://arxiv.org/abs/2205.01421" target= "_blank">[preprint]</a> <a href= "https://doi.org/10.1086/721797" target= "_blank">[journal]</a><br><br>
 </li>
  
-<li><b>Analyzing the Relationship between Physicians' Experience and Surgery Duration</b> (with Christopher Haager, Katja Schimmelpfeng, Jan Schoenfelder, and Jens Brunner), forthcoming at <i>Operations Research for Health Care</i>.<br><a href= "https://doi.org/10.1016/j.orhc.2022.100377" target= "_blank">[journal]</a><br><br>
+<li><b>Analyzing the Relationship between Physicians' Experience and Surgery Duration</b> (with Christopher Haager, Katja Schimmelpfeng, Jan Schoenfelder, and Jens Brunner), <i>Operations Research for Health Care</i>, 2023.<br><a href= "https://doi.org/10.1016/j.orhc.2022.100377" target= "_blank">[journal]</a><br><br>
 </li>
 </ul>
 
