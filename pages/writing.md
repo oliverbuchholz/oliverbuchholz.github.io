@@ -21,10 +21,10 @@ description: Oliver Buchholz | Writing
 <h4>Work in progress</h4>
 
 <ul>
-<li><b>Predicting and Explaining with Machine Learning Models: Social Science as a Touchstone</b> (with Thomas Grote), <i>revision requested</i>.<br><br>
+<li><b>A Means-End Account of Explainable Artificial Intelligence</b>, <i>revision requested</i>.<br><a href= "https://arxiv.org/abs/2208.04638" target= "_blank">[preprint]</a><br><br>
 </li>
  
-<li><b>A Means-End Account of Explainable Artificial Intelligence</b>, <i>under review</i>.<br><a href= "https://arxiv.org/abs/2208.04638" target= "_blank">[preprint]</a><br><br>
+<li><b>Predicting and Explaining with Machine Learning Models: Social Science as a Touchstone</b> (with Thomas Grote), <i>revision requested</i>.<br><br>
 </li>
  
 <li><b>Microfoundations of Physician Behavior: Machine Learning, Predictions, and the (Im)Possibility of Public Health Interventions</b> (with Thomas Grote), <i>under review</i>.<br><br>
