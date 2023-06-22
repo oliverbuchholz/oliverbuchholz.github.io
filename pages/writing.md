@@ -7,6 +7,9 @@ description: Oliver Buchholz | Writing
 <h4>Publications</h4>
 
 <ul>
+<li><b>A Means-End Account of Explainable Artificial Intelligence</b>, accepted for publication at <i>Synthese</i>.<br><a href= "https://arxiv.org/abs/2208.04638" target= "_blank">[preprint]</a> [journal version coming soon]<br><br>
+</li>
+ 
 <li><b>The Deep Neural Network Approach to the Reference Class Problem</b>, <i>Synthese</i>, 2023.<br>
  <a href= "http://philsci-archive.pitt.edu/21777/" target= "_blank">[preprint]</a> <a href= "https://doi.org/10.1007/s11229-023-04110-9" target= "_blank">[journal]</a><br><br>
 </li>
@@ -21,9 +24,6 @@ description: Oliver Buchholz | Writing
 <h4>Work in progress</h4>
 
 <ul>
-<li><b>A Means-End Account of Explainable Artificial Intelligence</b>, <i>revision requested</i>.<br><a href= "https://arxiv.org/abs/2208.04638" target= "_blank">[preprint]</a><br><br>
-</li>
- 
 <li><b>Predicting and Explaining with Machine Learning Models: Social Science as a Touchstone</b> (with Thomas Grote), <i>revision requested</i>.<br><br>
 </li>
  
