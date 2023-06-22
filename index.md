@@ -21,6 +21,9 @@ Philosophy of science, philosophy of machine learning, and the ways in which the
 <h4> News </h4>
 
 <ul>
+<li> 06/22/2023 &ndash; My &ldquo;Means-End Account of Explainable Artificial Intelligence&rdquo; has been accepted for publication at <i>Synthese</i>.<br><br>
+</li>
+ 
 <li> 02/15/2023 &ndash; My paper &ldquo;The Deep Neural Network Approach to the Reference Class Problem&rdquo; has been accepted for publication at <i>Synthese</i>. It is already available as a <a href="http://philsci-archive.pitt.edu/21777/" target="_blank">preprint</a>.<br><br>
 </li>
  
