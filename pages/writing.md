@@ -27,13 +27,13 @@ description: Oliver Buchholz | Writing
 <li><b>Predicting and Explaining with Machine Learning Models: Social Science as a Touchstone</b> (with Thomas Grote), <i>revision requested</i>.<br><br>
 </li>
  
-<li><b>XAI: On Explainability and the Obligation to Explain</b> (with Karoline Reinhardt), <i>under review</i>.<br><br>
-</li>
- 
 <li><b>The Curve-Fitting Problem Revisited</b>, <i>in preparation</i>.<br><br>
 </li>
  
 <li><b>Microfoundations of Physician Behavior: Machine Learning, Predictions, and the (Im)Possibility of Public Health Interventions</b> (with Thomas Grote), <i>in preparation</i>.<br><br>
+</li>
+
+<li><b>XAI: On Explainability and the Obligation to Explain</b> (with Karoline Reinhardt), <i>in preparation</i>.<br><br>
 </li>
 </ul>
 
