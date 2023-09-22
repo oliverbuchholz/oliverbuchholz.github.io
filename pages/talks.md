@@ -7,7 +7,7 @@ description: Oliver Buchholz | Talks
 <h4>Upcoming</h4>
 
 <ul>
-<li><b>The Curve-Fitting Problem Revisited</b>, <a href="https://www.mcmp.philosophie.uni-muenchen.de/events/workshops/container/ml_2023/index.html" target="_blank">Workshop on the Epistemology and Theory of Machine Learning</a>, Munich, March 2023.<br><br>
+<li><b>Means-End Epistemology for Explainable Artificial Intelligence</b>, <a href="https://sites.google.com/view/aiteproject/closing-conference" target="_blank">Closing conference of the project &ldquo;AI, Trustworthiness and Explainability&rdquo;</a>, T&uuml;bingen, October 2023.<br><br>
 </li>
 </ul>
 
@@ -16,6 +16,9 @@ description: Oliver Buchholz | Talks
 <h4>Previous</h4>
 
 <ul>
+<li><b>The Curve-Fitting Problem Revisited</b>, <a href="https://www.mcmp.philosophie.uni-muenchen.de/events/workshops/container/ml_2023/index.html" target="_blank">Workshop on the Epistemology and Theory of Machine Learning</a>, Munich, March 2023.<br><br>
+</li>
+  
 <li><b>A Means-End Account of Explainable Artificial Intelligence</b>, <a href="https://qis.server.uni-frankfurt.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=340155" target="_blank">Research Colloquium in Theoretical Philosophy</a>, Frankfurt a. M., January 2023.<br><br>
 </li>
   
