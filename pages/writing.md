@@ -30,7 +30,7 @@ description: Oliver Buchholz | Writing
 <li><b>The Curve-Fitting Problem Revisited</b>, <i>in preparation</i>.<br><br>
 </li>
  
-<li><b>Machine Learning in Public Health and the Prediction-Intervention Gap.</b> (with Thomas Grote), <i>in preparation</i>.<br><br>
+<li><b>Machine Learning in Public Health and the Prediction-Intervention Gap</b> (with Thomas Grote), <i>in preparation</i>.<br><br>
 </li>
 
 <li><b>Epistemology of AI and Politics</b> (with Karoline Reinhardt), <i>in preparation</i>.<br><br>
