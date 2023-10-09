@@ -23,7 +23,10 @@ Philosophy of science, philosophy of machine learning, and the ways in which the
 <ul>
 <li> 10/08/23 &ndash; My joint article with Thomas Grote, &ldquo;Predicting and Explaining with Machine Learning Models: Social Science as a Touchstone&rdquo;, has been accepted for publication at <i>Studies in History and Philosophy of Science</i>.<br><br>
 </li>
- 
+
+<li> 09/28/2023 &ndash; The website and program for the closing conference of our project <a href = "https://sites.google.com/view/aiteproject/project" target = "_blank">AITE &ndash; Artificial Intelligence, Trustworthiness and Explainability</a> are now online. Feel free to have a look <a href="https://sites.google.com/view/aiteproject/closing-conference" target="_blank">here</a>!<br><br>
+</li>
+  
 <li> 06/28/2023 &ndash; I have been awarded an <a href="https://ethz.ch/en/research/research-promotion/eth-fellowships.html" target="_blank">ETH Zurich Postdoctoral Fellowship</a> for my project &ldquo;MLS<sup>2</sup>: Machine Learning, Science, and Society&rdquo; that I will start working on in November.<br><br>
 </li>
  
@@ -32,10 +35,7 @@ Philosophy of science, philosophy of machine learning, and the ways in which the
  
 <li> 02/15/2023 &ndash; My paper &ldquo;The Deep Neural Network Approach to the Reference Class Problem&rdquo; has been accepted for publication at <i>Synthese</i>. It is already available as a <a href="http://philsci-archive.pitt.edu/21777/" target="_blank">preprint</a>.<br><br>
 </li>
- 
-<li> 10/02/2022 &ndash; The website and program for the <a href="https://philevents.org/event/show/96706" target="_blank">PhilML22 Graduate Workshop on Philosophy of Machine Learning</a> that I am co-organizing with Sara Blanco are now online. Feel free to have a look <a href="https://sites.google.com/view/philml2022/graduate-workshop/program" target="_blank">here</a>!<br><br>
-</li>
- 
+  
 <li> 06/13/2022 &ndash; I am happy to be part of the <a href="https://www.lse.ac.uk/philosophy/events/imre-lakatos-centenary-conference/" target="_blank">Imre Lakatos Centenary Conference</a> that celebrates the centenary of Lakatos' birth. I will give a talk on how his refined version of falsificationism can help to understand the underlying methodology of artificial neural networks.<br><br>
 </li>
  
