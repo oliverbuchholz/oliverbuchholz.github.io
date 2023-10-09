@@ -21,7 +21,8 @@ Philosophy of science, philosophy of machine learning, and the ways in which the
 <h4> News </h4>
 
 <ul>
-<li>10/08/23 &ndash; My joint article with Thomas Grote, &ldquo;Predicting and Explaining with Machine Learning Models: Social Science as a Touchstone&rdquo;, has been accepted for publication at <i>Studies in History and Philosophy of Science</i>.</li>
+<li>10/08/23 &ndash; My joint article with Thomas Grote, &ldquo;Predicting and Explaining with Machine Learning Models: Social Science as a Touchstone&rdquo;, has been accepted for publication at <i>Studies in History and Philosophy of Science</i>.<br><br>
+</li>
  
 <li> 06/28/2023 &ndash; I have been awarded an <a href="https://ethz.ch/en/research/research-promotion/eth-fellowships.html" target="_blank">ETH Zurich Postdoctoral Fellowship</a> for my project &ldquo;MLS<sup>2</sup>: Machine Learning, Science, and Society&rdquo; that I will start working on in November.<br><br>
 </li>
