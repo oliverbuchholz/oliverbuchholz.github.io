@@ -11,7 +11,7 @@ I am a Postdoc at ETH Zurich where I am running my independent research project 
 Previously, I was a research associate in philosophy at University of T&uuml;bingen's <a href = "https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/" target = "_blank">Cluster of Excellence &ldquo;Machine Learning: New Perspectives for Science&rdquo;</a>. Within the research project <a href = "https://sites.google.com/view/aiteproject/project" target = "_blank">&ldquo;AITE &ndash; Artificial Intelligence, Trustworthiness and Explainability&rdquo;</a>, I worked on the philosophy of explainable artificial intelligence under the supervision of <a href="https://www.philosophie.uni-konstanz.de/ag-spohn/personen/prof-dr-wolfgang-spohn/" target="_blank">Wolfgang Spohn</a> and <a href="https://scholar.google.de/citations?user=MpJaE0wAAAAJ&hl=de" target="_blank">Eric Raidl</a>.<br> 
 I hold a Ph. D. and an M. A. in Philosophy as well as an M. Sc. in Economics and Finance, all from University of T&uuml;bingen.<br><br>
 
-You can also find me on <a href="https://philpeople.org/profiles/oliver-buchholz" target="_blank">PhilPeople</a> and on <a href="https://scholar.google.com/citations?user=o-i32DIAAAAJ&hl=de&oi=ao" target="_blank">Google Scholar</a>. Contact me at oliver [dot] buchholz [at] uni [minus] tuebingen [dot] de.<br><br>
+You can also find me on <a href="https://philpeople.org/profiles/oliver-buchholz" target="_blank">PhilPeople</a> and on <a href="https://scholar.google.com/citations?user=o-i32DIAAAAJ&hl=de&oi=ao" target="_blank">Google Scholar</a>. Contact me at oliver [dot] buchholz [at] hest [dot] ethz [dot] ch.<br><br>
 
 
 <h4> Research </h4>
