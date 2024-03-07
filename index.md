@@ -7,7 +7,7 @@ keywords: Buchholz, Oliver, philosophy, machine learning, phd, postdoc, Tübinge
 
 <h4> About </h4>
 
-I am a postdoc at <a href="https://ethz.ch/en.html" target="_blank">ETH Zurich</a> where I am running my independent research project &ldquo;MLS<sup>2</sup>: Machine Learning, Science, and Society&rdquo; that is funded by an <a href="https://ethz.ch/en/research/research-promotion/eth-fellowships.html" target="_blank">ETH Zurich Postdoctoral Fellowship</a>.<br>
+I am a postdoc at <a href="https://ethz.ch/en.html" target="_blank">ETH Zurich</a> where I am running my independent research project &ldquo;MLS<sup>2</sup>: Machine Learning, Science, and Society&rdquo; that is funded by an <a href="https://ethz.ch/en/research/research-promotion/eth-fellowships.html" target="_blank">ETH Zurich Postdoctoral Fellowship</a>. I am also an associated member of the <a href="https://www.iris.uni-stuttgart.de/" target="_blank">Interchange Forum for Reflecting on Intelligent Systems (IRIS)</a> at <a href="https://www.uni-stuttgart.de/en/" target="_blank">University of Stuttgart</a>.<br>
 Previously, I was a research associate at University of T&uuml;bingen's <a href = "https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/" target = "_blank">Cluster of Excellence &ldquo;Machine Learning: New Perspectives for Science&rdquo;</a>. Within the research project <a href = "https://sites.google.com/view/aiteproject/project" target = "_blank">&ldquo;AITE &ndash; Artificial Intelligence, Trustworthiness and Explainability&rdquo;</a>, I worked on the philosophy of explainable artificial intelligence under the supervision of <a href="https://www.philosophie.uni-konstanz.de/ag-spohn/personen/prof-dr-wolfgang-spohn/" target="_blank">Wolfgang Spohn</a> and <a href="https://scholar.google.de/citations?user=MpJaE0wAAAAJ&hl=de" target="_blank">Eric Raidl</a>.<br> 
 I hold a Ph. D. and an M. A. in Philosophy as well as an M. Sc. in Economics and Finance, all from University of T&uuml;bingen.<br><br>
 
@@ -22,6 +22,12 @@ Philosophy of science, philosophy of machine learning, and the ways in which the
 <h4> News </h4>
 
 <ul>
+<li> 03/04/2024 &ndash; I have been approved as an associated member of IRIS, University of Stuttgart's <a href="https://www.iris.uni-stuttgart.de/" target="_blank">Interchange Forum for Reflecting on Intelligent Systems</a>.<br><br>
+</li>
+  
+<li> 02/12/2024 &ndash; I am happy to be part of the <a href="https://www.lse.ac.uk/philosophy/events/imre-lakatos-centenary-conference/" target="_blank">&ldquo;ML, Explain Yourself!&rdquo;-conference</a> in Utrecht to give a talk on why a purely objectivist perspective seems inadequate for explicating the concept of explanation &ndash; in machine learning, but also in more general contexts.<br><br>
+</li>
+  
 <li> 10/08/23 &ndash; My joint article with Thomas Grote, &ldquo;Predicting and Explaining with Machine Learning Models: Social Science as a Touchstone&rdquo;, has been accepted for publication at <i>Studies in History and Philosophy of Science</i>.<br><br>
 </li>
 
@@ -32,20 +38,5 @@ Philosophy of science, philosophy of machine learning, and the ways in which the
 </li>
  
 <li> 06/22/2023 &ndash; My &ldquo;Means-End Account of Explainable Artificial Intelligence&rdquo; has been accepted for publication at <i>Synthese</i>.<br><br>
-</li>
- 
-<li> 02/15/2023 &ndash; My paper &ldquo;The Deep Neural Network Approach to the Reference Class Problem&rdquo; has been accepted for publication at <i>Synthese</i>. It is already available as a <a href="http://philsci-archive.pitt.edu/21777/" target="_blank">preprint</a>.<br><br>
-</li>
-  
-<li> 06/13/2022 &ndash; I am happy to be part of the <a href="https://www.lse.ac.uk/philosophy/events/imre-lakatos-centenary-conference/" target="_blank">Imre Lakatos Centenary Conference</a> that celebrates the centenary of Lakatos' birth. I will give a talk on how his refined version of falsificationism can help to understand the underlying methodology of artificial neural networks.<br><br>
-</li>
- 
-<li> 06/10/2022 &ndash; My joint paper with Eric Raidl, &ldquo;A Falsificationist Account of Artificial Neural Networks&rdquo;, has been accepted for publication at <i>The British Journal for the Philosophy of Science</i>. It is already available as a <a href="https://arxiv.org/abs/2205.01421" target="_blank">preprint</a>.<br><br>
-</li>
- 
-<li> 05/06/2022 &ndash; My paper &ldquo;The Curve-Fitting Problem Revisited&rdquo; has been accepted for presentation at <a href="https://gap11.de/en/index.html" target="_blank">GAP.11</a>, the 11th international congress of the <a href="https://gap-im-netz.de/en/" target="_blank">German Society for Analytic Philosophy</a>.<br><br>
-</li>
- 
-<li> 03/04/2022 &ndash; I will have the opportunity to give a talk on &ldquo;Building Effective Guidelines for Machine Learning: Lessons from Means-End Epistemology&rdquo; at the <a href="https://www.frankfurt-school.de/home/research/conferences-workshops/ds-2022" target="_blank">Conference on the Philosophy of Data Science: Data Science Governance</a>.<br><br>
 </li>
 </ul>
