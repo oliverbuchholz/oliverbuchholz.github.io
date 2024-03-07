@@ -16,6 +16,7 @@ description: Oliver Buchholz | Talks
 <h4>Previous</h4>
 
 <ul>
+<li>
 <b>Means-End Epistemology for Explainable Artificial Intelligence</b>, <a href="https://sites.google.com/view/aiteproject/closing-conference" target="_blank">Closing conference of the project &ldquo;AI, Trustworthiness and Explainability&rdquo;</a>, T&uuml;bingen, October 2023.<br><br>
 </li>
   
