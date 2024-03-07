@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Oliver Buchholz | Home
-description: Oliver Buchholz is a postdoc in philosophy of ML at ETH Zürich. 
+description: Oliver Buchholz is a postdoc in philosophy at ETH Zürich. 
 keywords: Buchholz, Oliver, philosophy, machine learning, phd, postdoc, Tübingen, ETH, Zürich
 ---
 
