@@ -7,7 +7,7 @@ description: Oliver Buchholz | Talks
 <h4>Upcoming</h4>
 
 <ul>
-<li><b>Against Objectivism about Explanation &ndash; in Machine Learning and beyond</b>, Conference <a href="https://philevents.org/event/show/117605" target="_blank">&ldquo;ML, Explain Yourself! Perspectives from Philosophy and Computer Science&rdquo;</a>, Utrecht, April 2024.<br><br>
+<li><b>Against Objectivism about Explanation &ndash; in Machine Learning and beyond</b>, Conference <a href="https://ephil.ai/event/conference-ml-explain-yourself/" target="_blank">&ldquo;ML, Explain Yourself! Perspectives from Philosophy and Computer Science&rdquo;</a>, Utrecht, April 2024.<br><br>
 </li>
 </ul>
 
