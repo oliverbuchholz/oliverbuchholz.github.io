@@ -27,7 +27,7 @@ description: Oliver Buchholz | Writing
 <h4>Work in progress</h4>
 
 <ul>
-<li><b>Machine Learning in Public Health and the Prediction-Intervention Gap</b> (with Thomas Grote), forthcoming in Dur&aacute;n, J. and Pozzi, G. (eds.): <i>Philosophy of Science for Machine Learning: Core Issues and New Perspectives</i>. Cham: Synthese Library (invited).<br><a href= "https://philsci-archive.pitt.edu/23205/" target= "_blank">[preprint]</a><br><br>
+<li><b>Machine Learning in Public Health and the Prediction-Intervention Gap</b> (with Thomas Grote), forthcoming in Dur&aacute;n, J. and Pozzi, G. (eds.): <i>Philosophy of Science for Machine Learning: Core Issues and New Perspectives</i>. Cham: Synthese Library (invited).<br><a href= "https://philsci-archive.pitt.edu/23207/" target= "_blank">[preprint]</a><br><br>
 </li>
  
 <li><b>The Curve-Fitting Problem Revisited</b>, <i>in preparation</i>.<br><br>
