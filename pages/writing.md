@@ -33,7 +33,7 @@ description: Oliver Buchholz | Writing
 <li><b>The Curve-Fitting Problem Revisited</b>, <i>in preparation</i>.<br><br>
 </li>
 
-<li><b>Justifying Reasons in Medicine: Is There Room for Machine Learning? (with Alessandro Blasimme), <i>in preparation</i>.<br><br>
+<li><b>Justifying Reasons in Medicine: Is There Room for Machine Learning?</b> (with Alessandro Blasimme), <i>in preparation</i>.<br><br>
 </li>
 </ul>
 
