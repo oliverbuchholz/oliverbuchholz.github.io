@@ -4,12 +4,9 @@ title: Writing
 description: Oliver Buchholz | Writing
 ---
 
-<h4>Publications</h4>
+<h4>Journal Articles</h4>
 
 <ul>
-<li><b>A Falsificationist Account of Artificial Neural Networks</b> (with Eric Raidl), forthcoming at <i>The British Journal for the Philosophy of Science</i>.<br><a href= "https://arxiv.org/abs/2205.01421" target= "_blank">[preprint]</a> <a href= "https://doi.org/10.1086/721797" target= "_blank">[journal]</a><br><br>
-</li>
-
 <li><b>A Means-End Account of Explainable Artificial Intelligence</b>, <i>Synthese</i>, 2023.<br><a href= "https://arxiv.org/abs/2208.04638" target= "_blank">[preprint]</a> <a href= "https://doi.org/10.1007/s11229-023-04260-w" target= "_blank">[journal]</a><br><br>
 </li>
  
@@ -22,18 +19,41 @@ description: Oliver Buchholz | Writing
  
 <li><b>Analyzing the Relationship between Physicians' Experience and Surgery Duration</b> (with Christopher Haager, Katja Schimmelpfeng, Jan Schoenfelder, and Jens Brunner), <i>Operations Research for Health Care</i>, 2023.<br><a href= "https://doi.org/10.1016/j.orhc.2022.100377" target= "_blank">[journal]</a><br><br>
 </li>
+
+<li><b>A Falsificationist Account of Artificial Neural Networks</b> (with Eric Raidl), <i>The British Journal for the Philosophy of Science</i>, 2022.<br><a href= "https://arxiv.org/abs/2205.01421" target= "_blank">[preprint]</a> <a href= "https://doi.org/10.1086/721797" target= "_blank">[journal]</a><br><br>
+</li>
+</ul>
+
+<h4>Book Chapters</h4>
+
+<ul>
+<li>
+<b>Maschinelles Lernen in der Wissenschaft</b>, forthcoming in Noller, J. and
+Reinhardt, K. (eds.): <i>Handbuch Philosophie der Digitalit&aaml;t</i>. Heidelberg: Metzler (invited).<br><br>
+</li>
+ 
+<li><b>Machine Learning in Public Health and the Prediction-Intervention Gap</b> (with Thomas Grote), forthcoming in Dur&aacute;n, J. and Pozzi, G. (eds.): <i>Philosophy of Science for Machine Learning: Core Issues and New Perspectives</i>. Cham: Synthese Library (invited).<br><a href= "https://philsci-archive.pitt.edu/23207/" target= "_blank">[preprint]</a><br><br>
+</li>
+
+<li>
+<b>AI Ethics Principles and Guidelines</b> (with Marcello Ienca and Effy Vayena), forthcoming in Ziosi, M., Floridi, L., and Taddeo, M. (eds.): <i>The Blackwell Companion to Digital Ethics</i>. Oxford: Wiley-Blackwell (invited).<br><br>
+</li>
 </ul>
 
 <h4>Work in progress</h4>
 
 <ul>
-<li><b>Machine Learning in Public Health and the Prediction-Intervention Gap</b> (with Thomas Grote), forthcoming in Dur&aacute;n, J. and Pozzi, G. (eds.): <i>Philosophy of Science for Machine Learning: Core Issues and New Perspectives</i>. Cham: Synthese Library (invited).<br><a href= "https://philsci-archive.pitt.edu/23207/" target= "_blank">[preprint]</a><br><br>
+<li><i>Means-End Epistemology for Explainable Artificial Intelligence</i>, under review.<br><br>
 </li>
  
-<li><b>The Curve-Fitting Problem Revisited</b>, <i>in preparation</i>.<br><br>
+<li><b>The Curve-Fitting Problem Revisited</b>, in preparation.<br><br>
 </li>
 
-<li><b>Justifying Reasons in Medicine: Is There Room for Machine Learning?</b> (with Alessandro Blasimme), <i>in preparation</i>.<br><br>
+<li><b>Justifying Reasons in Medicine: Is There Room for Machine Learning?</b> (with Alessandro Blasimme), in preparation.<br><br>
+</li>
+
+<li>
+<b>Epistemology of AI and Politics</b> (with Karoline Reinhardt), to appear in: H&aaml;hnel, M. and M&uuml;ller, R. (eds.): <i>The Blackwell Companion to Applied Philosophy of AI</i>. Oxford: Wiley-Blackwell (invited).<br><br>
 </li>
 </ul>
 
