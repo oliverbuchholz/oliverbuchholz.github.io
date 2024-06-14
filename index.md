@@ -17,7 +17,7 @@ You can also find me on <a href="https://philpeople.org/profiles/oliver-buchholz
 
 <h4> Research </h4>
 
-Philosophy of science, epistemology, machine learning, and the ways in which they interact.<br><br>
+Philosophy of science, machine learning, and the ways in which they interact.<br><br>
 
 
 <h4> News </h4>
@@ -29,7 +29,7 @@ Philosophy of science, epistemology, machine learning, and the ways in which the
 <li> 03/04/2024 &ndash; I have been approved as an associate member of IRIS, University of Stuttgart's <a href="https://www.iris.uni-stuttgart.de/" target="_blank">Interchange Forum for Reflecting on Intelligent Systems</a>.<br><br>
 </li>
   
-<li> 02/12/2024 &ndash; I am happy to be part of the <a href="https://ephil.ai/event/conference-ml-explain-yourself/" target="_blank">&ldquo;ML, Explain Yourself!&rdquo;-conference</a> in Utrecht to give a talk on why a purely objectivist perspective seems inadequate for explicating the concept of explanation &ndash; in machine learning, but also in more general contexts.<br><br>
+<li> 02/12/2024 &ndash; I am happy to be part of the <a href="https://ephil.ai/event/conference-ml-explain-yourself/" target="_blank">&ldquo;ML, Explain Yourself!&rdquo;-conference</a> in Utrecht to give a talk on why a purely objectivist perspective is inadequate for explicating the concept of explanation &ndash; in machine learning, but also in more general contexts.<br><br>
 </li>
   
 <li> 10/08/2023 &ndash; My joint article with Thomas Grote, &ldquo;Predicting and Explaining with Machine Learning Models: Social Science as a Touchstone&rdquo;, has been accepted for publication at <i>Studies in History and Philosophy of Science</i>.<br><br>
