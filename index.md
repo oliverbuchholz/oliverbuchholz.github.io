@@ -17,7 +17,7 @@ You can also find me on <a href="https://philpeople.org/profiles/oliver-buchholz
 
 <h4> Research </h4>
 
-Philosophy of science, machine learning, and the ways in which they interact.<br><br>
+Philosophy of science, epistemology, machine learning, and the ways in which they interact.<br><br>
 
 
 <h4> News </h4>
