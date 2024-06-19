@@ -4,7 +4,7 @@ title: Writing
 description: Oliver Buchholz | Writing
 ---
 
-<h4>Journal Articles</h4>
+<h4>Articles in peer-reviewed journals</h4>
 
 <ul>
 <li><b>A Means-End Account of Explainable Artificial Intelligence</b>, <i>Synthese</i>, 2023.<br><a href= "https://arxiv.org/abs/2208.04638" target= "_blank">[preprint]</a> <a href= "https://doi.org/10.1007/s11229-023-04260-w" target= "_blank">[journal]</a><br><br>
@@ -24,7 +24,7 @@ description: Oliver Buchholz | Writing
 </li>
 </ul>
 
-<h4>Book Chapters</h4>
+<h4>Chapters in edited volumes</h4>
 
 <ul>
 <li>
@@ -60,16 +60,14 @@ Reinhardt, K. (eds.): <i>Handbuch Philosophie der Digitalit&auml;t</i>. Heidelbe
 <h4>Theses</h4>
 
 <ul>
-<li><b>Artificial Neural Networks and the Reference Class Problem</b> (2020) <a href= "papers/MA_Philo.pdf" target= "_blank">[thesis]</a><br> 
- Thesis for the degree M. A. in Philosophy<br><br>
+<li><b>Artificial Neural Networks and the Reference Class Problem</b>, thesis for the degree M. A. in Philosophy, 2020.<br> <a href= "papers/MA_Philo.pdf" target= "_blank">[thesis]</a><br><br>
  </li>
 
-
-<li><b>Uncertainty and the Business Cycle</b> (2020) <a href= "papers/MA_Econ.pdf" target= "_blank">[thesis]</a><br> 
- Thesis for the degree M. Sc. in Economics and Finance<br><br>
+<li><b>Uncertainty and the Business Cycle</b>, thesis for the degree M. Sc. in Economics and Finance, 2020.<br> <a href= "papers/MA_Econ.pdf" target= "_blank">[thesis]</a><br><br>
  </li>
-
+<!--
 <li><b>Forecasting Emergency Patient Arrival Counts</b> (2015) <a href= "papers/BA.pdf" target= "_blank">[thesis]</a><br> 
  Thesis for the degree B. Sc. in Economics and Business Administration<br><br>
  </li>
+ -->
  </ul>
