@@ -7,7 +7,8 @@ description: Oliver Buchholz | Talks
 <h4>Upcoming</h4>
 
 <ul>
-<i>tba</i>
+<li><b>Against Objectivism about Explanation &ndash; in Machine Learning and Beyond</b>, <a href="https://www.uni-muenster.de/DKPhil2024/en/kongress/index.html" target="_blank">German Congress of Philosophy XXVI</a>, M&uuml;nster, September 2024.<br><br>
+</li>
 </ul>
 
 
@@ -18,7 +19,7 @@ description: Oliver Buchholz | Talks
 <li><b>Justifying Reasons in Medicine: Is There Room for Machine Learning?</b> (with Alessandro Blasimme), <a href="https://philosmed.wordpress.com/2023/09/13/11th-roundtable-9-10-may-2024/" target="_blank">11th International Philosophy of Medicine Roundtable</a>, virtual, May 2024.<br><br>
 </li>
   
-<li><b>Against Objectivism about Explanation &ndash; in Machine Learning and beyond</b>, Conference <a href="https://ephil.ai/event/conference-ml-explain-yourself/" target="_blank">&ldquo;ML, Explain Yourself! Perspectives from Philosophy and Computer Science&rdquo;</a>, Utrecht, April 2024.<br><br>
+<li><b>Against Objectivism about Explanation &ndash; in Machine Learning and Beyond</b>, Conference <a href="https://ephil.ai/event/conference-ml-explain-yourself/" target="_blank">&ldquo;ML, Explain Yourself! Perspectives from Philosophy and Computer Science&rdquo;</a>, Utrecht, April 2024.<br><br>
 </li>
   
 <li>
