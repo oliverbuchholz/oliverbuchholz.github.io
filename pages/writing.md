@@ -43,7 +43,7 @@ Reinhardt, K. (eds.): <i>Handbuch Philosophie der Digitalit&auml;t</i>. Heidelbe
 <h4>Work in progress</h4>
 
 <ul>
-<li><b><i>Means-End Epistemology for Explainable Artificial Intelligence</i></b>, under contract.<br><br>
+<li><b><i>Explaining Artificial Intelligence. From Epistemological Foundations to Practical Consequences</i></b>, under contract.<br><br>
 </li>
  
 <li><b>The Curve-Fitting Problem Revisited</b>, in preparation.<br><br>
