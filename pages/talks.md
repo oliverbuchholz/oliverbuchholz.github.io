@@ -7,7 +7,7 @@ description: Oliver Buchholz | Talks
 <h4>Upcoming</h4>
 
 <ul>
-<li><b>Against Objectivism about Explanation &ndash; in Machine Learning and Beyond</b>, <a href="https://www.uni-muenster.de/DKPhil2024/en/kongress/index.html" target="_blank">German Congress of Philosophy XXVI</a>, M&uuml;nster, September 2024.<br><br>
+<li><b>The Curve-Fitting Problem Revisited</b>, <a href="https://www.ksl.unibe.ch/KSL/detailsansicht?2" target="_blank">Research Colloquium in Philosophy of Science</a>, Bern, November 2024.<br><br>
 </li>
 </ul>
 
