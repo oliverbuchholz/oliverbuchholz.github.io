@@ -28,15 +28,19 @@ description: Oliver Buchholz | Writing
 
 <ul>
 <li>
-<b>Maschinelles Lernen in der Wissenschaft</b>, forthcoming in: Noller, J. and
-Reinhardt, K. (eds.): <i>Handbuch Philosophie der Digitalit&auml;t</i>. Heidelberg: Metzler (invited).<br><br>
+<b>AI Ethics Principles and Guidelines</b> (with Marcello Ienca and Effy Vayena), forthcoming in: Ziosi, M., Floridi, L., and Taddeo, M. (eds.): <i>The Blackwell Companion to Digital Ethics</i>. Oxford: Wiley-Blackwell (invited).<br><br>
+</li>
+
+<li>
+<b>Epistemology of AI and Politics</b> (with Karoline Reinhardt), forthcoming in: H&auml;hnel, M. and M&uuml;ller, R. (eds.): <i>The Blackwell Companion to Applied Philosophy of AI</i>. Oxford: Wiley-Blackwell (invited).<br><br>
 </li>
  
 <li><b>Machine Learning in Public Health and the Prediction-Intervention Gap</b> (with Thomas Grote), forthcoming in: Dur&aacute;n, J. and Pozzi, G. (eds.): <i>Philosophy of Science for Machine Learning: Core Issues and New Perspectives</i>. Cham: Synthese Library (invited).<br><a href= "https://philsci-archive.pitt.edu/23207/" target= "_blank">[preprint]</a><br><br>
 </li>
-
+ 
 <li>
-<b>AI Ethics Principles and Guidelines</b> (with Marcello Ienca and Effy Vayena), forthcoming in: Ziosi, M., Floridi, L., and Taddeo, M. (eds.): <i>The Blackwell Companion to Digital Ethics</i>. Oxford: Wiley-Blackwell (invited).<br><br>
+<b>Maschinelles Lernen in der Wissenschaft</b>, forthcoming in: Noller, J. and
+Reinhardt, K. (eds.): <i>Handbuch Philosophie der Digitalit&auml;t</i>. Heidelberg: Metzler (invited).<br><br>
 </li>
 </ul>
 
@@ -50,10 +54,6 @@ Reinhardt, K. (eds.): <i>Handbuch Philosophie der Digitalit&auml;t</i>. Heidelbe
 </li>
 
 <li><b>Justifying Reasons in Medicine: Is There Room for Machine Learning?</b> (with Alessandro Blasimme), in preparation.<br><br>
-</li>
-
-<li>
-<b>Epistemology of AI and Politics</b> (with Karoline Reinhardt), to appear in: H&auml;hnel, M. and M&uuml;ller, R. (eds.): <i>The Blackwell Companion to Applied Philosophy of AI</i>. Oxford: Wiley-Blackwell (invited).<br><br>
 </li>
 </ul>
 
