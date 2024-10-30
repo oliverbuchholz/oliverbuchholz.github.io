@@ -32,6 +32,10 @@ description: Oliver Buchholz | Writing
 </li>
 
 <li>
+<b>Digital Ethics</b> (with Robert Ranisch and Effy Vayena), forthcoming in: Sugarman, J., and Sulmasy, D. P. (eds.): <i>Methods in Medical Ethics. Scholarship, Practice and Policy in Bioethics</i>. Washington, D.C.: Georgetown University Press (invited).<br><br>
+</li>
+
+<li>
 <b>Epistemology of AI and Politics</b> (with Karoline Reinhardt), forthcoming in: H&auml;hnel, M. and M&uuml;ller, R. (eds.): <i>The Blackwell Companion to Applied Philosophy of AI</i>. Oxford: Wiley-Blackwell (invited).<br><br>
 </li>
  
