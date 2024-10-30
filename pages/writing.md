@@ -57,7 +57,7 @@ Reinhardt, K. (eds.): <i>Handbuch Philosophie der Digitalit&auml;t</i>. Heidelbe
 <li><b>The Curve-Fitting Problem Revisited</b>, in preparation.<br><br>
 </li>
 
-<li><b>Justifying Reasons in Medicine: Is There Room for Machine Learning?</b> (with Alessandro Blasimme), in preparation.<br><br>
+<li><b>AI, Medicine and Reason: The Theoretical Challenges of Explainability</b> (with Alessandro Blasimme), in preparation.<br><br>
 </li>
 </ul>
 
