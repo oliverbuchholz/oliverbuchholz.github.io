@@ -57,7 +57,7 @@ Reinhardt, K. (eds.): <i>Handbuch Philosophie der Digitalit&auml;t</i>. Heidelbe
 <li><b>AI, Medicine and Reason: The Theoretical Challenges of Explainability</b> (with Alessandro Blasimme), submitted.<br><br>
 </li>
 
-<li><b>The Curve-Fitting Problem Revisited</b>, in preparation.<br><br>
+<li><b>The Curve-Fitting Problem Revisited</b>, submitted.<br><br>
 </li>
 </ul>
 
