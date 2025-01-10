@@ -6,7 +6,11 @@ description: Oliver Buchholz | Teaching
 
 <ul>
 <li>
-<b>Ethics Workshop: The Impact of Digital Life on Society</b>, graduate seminar (in English), winter term 2024, ETH Zurich.<br><a href= "https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2024W&ansicht=KATALOGDATEN&lerneinheitId=182672&lang=en" target= "_blank">[course catalogue]</a><br><br>
+<b>Einführung in die Wissenschaftstheorie</b>, undergraduate seminar (in German), summer term 2025, University of Stuttgart.<br>[details following soon]<br><br>
+</li>
+  
+<li>
+<b>Ethics Workshop: The Impact of Digital Life on Society</b>, graduate seminar (in English), term-wise recurring, ETH Zurich.<br><a href= "https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2024W&ansicht=KATALOGDATEN&lerneinheitId=182672&lang=en" target= "_blank">[course catalogue]</a><br><br>
 </li>
 
 <li>
