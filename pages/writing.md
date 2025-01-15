@@ -4,6 +4,13 @@ title: Writing
 description: Oliver Buchholz | Writing
 ---
 
+<h4>Books</h4>
+
+<ul>
+<li><b><i>Explaining Artificial Intelligence. From Epistemological Foundations to Practical Consequences</i></b>, under contract with <a href= "https://www.degruyter.com/" target= "_blank">De Gruyter</a>.<br><br>
+</li>
+</ul>
+
 <h4>Articles in peer-reviewed journals</h4>
 
 <ul>
@@ -51,9 +58,6 @@ Reinhardt, K. (eds.): <i>Handbuch Philosophie der Digitalit&auml;t</i>. Heidelbe
 <h4>Work in progress</h4>
 
 <ul>
-<li><b><i>Explaining Artificial Intelligence. From Epistemological Foundations to Practical Consequences</i></b>, under contract.<br><br>
-</li>
- 
 <li><b>AI, Medicine and Reason: The Theoretical Challenges of Explainability</b> (with Alessandro Blasimme), submitted.<br><br>
 </li>
 
