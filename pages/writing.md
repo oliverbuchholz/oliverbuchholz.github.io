@@ -61,6 +61,9 @@ Reinhardt, K. (eds.): <i>Handbuch Philosophie der Digitalit&auml;t</i>. Heidelbe
 <li><b>AI, Medicine and Reason: The Theoretical Challenges of Explainability</b> (with Alessandro Blasimme), submitted.<br><br>
 </li>
 
+<li><b>Evaluating GPT-4's Ability to Generate Informed Consent Material for Genetic Testing</b> (with Eirini Petrou, Kelly Ormond, Dominik Stammbach, Elliott Ash, and Effy Vayena), submitted.<br><br>
+</li>
+
 <li><b>The Curve-Fitting Problem Revisited</b>, submitted.<br><br>
 </li>
 </ul>
