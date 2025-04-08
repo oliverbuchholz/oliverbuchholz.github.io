@@ -23,6 +23,9 @@ Philosophy of science, epistemology, machine learning, and the ways in which the
 <h4> News </h4>
 
 <ul>
+<li> 04/08/2024 &ndash; I am happy to join a panel discussion about the responsible use of AI at the <a href="https://www.zhaw.ch/en/focus-topics/zhaw-sustainable/engagement/sustainability-day-25" target="_blank">ZHAW Sustainability Day 2025</a>.<br><br>
+</li>
+  
 <li> 03/19/2024 &ndash; My joint paper with Alessandro Blasimme, &ldquo;Justifying Reasons in Medicine: Is There Room for ML?&rdquo;, has been accepted for presentation at the <a href="https://philosmed.wordpress.com/2023/09/13/11th-roundtable-9-10-may-2024/" target="_blank">11th International Philosophy of Medicine Roundtable</a>.<br><br>
 </li>
   
@@ -30,17 +33,5 @@ Philosophy of science, epistemology, machine learning, and the ways in which the
 </li>
   
 <li> 02/12/2024 &ndash; I am happy to be part of the <a href="https://ephil.ai/event/conference-ml-explain-yourself/" target="_blank">&ldquo;ML, Explain Yourself!&rdquo;-conference</a> in Utrecht to give a talk on why a purely objectivist perspective is inadequate for explicating the concept of explanation &ndash; in machine learning, but also in more general contexts.<br><br>
-</li>
-  
-<li> 10/08/2023 &ndash; My joint article with Thomas Grote, &ldquo;Predicting and Explaining with Machine Learning Models: Social Science as a Touchstone&rdquo;, has been accepted for publication at <i>Studies in History and Philosophy of Science</i>.<br><br>
-</li>
-
-<li> 09/28/2023 &ndash; The website and program for the closing conference of our project <a href = "https://sites.google.com/view/aiteproject/project" target = "_blank">&ldquo;AITE &ndash; Artificial Intelligence, Trustworthiness and Explainability&rdquo;</a> are now online. Feel free to have a look <a href="https://sites.google.com/view/aiteproject/closing-conference" target="_blank">here</a>!<br><br>
-</li>
-  
-<li> 06/28/2023 &ndash; I have been awarded an <a href="https://grantsoffice.ethz.ch/funding-opportunities/internal/eth-fellowships.html" target="_blank">ETH Zurich Postdoctoral Fellowship</a> for my project &ldquo;MLS<sup>2</sup>: Machine Learning, Science, and Society&rdquo; that I will start working on in November.<br><br>
-</li>
- 
-<li> 06/22/2023 &ndash; My &ldquo;Means-End Account of Explainable Artificial Intelligence&rdquo; has been accepted for publication at <i>Synthese</i>.<br><br>
 </li>
 </ul>
