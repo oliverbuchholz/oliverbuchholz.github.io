@@ -6,7 +6,7 @@ description: Oliver Buchholz | Teaching
 
 <ul>
 <li>
-<b>Einführung in die Wissenschaftstheorie</b>, undergraduate seminar (in German), summer term 2025, University of Stuttgart.<br>[details following soon]<br><br>
+<b>Einführung in die Wissenschaftstheorie</b>, undergraduate seminar (in German), summer term 2025, University of Stuttgart.<br><a href= "papers/Syllabus_WT.pdf" target= "_blank">[syllabus]</a><br><br>
 </li>
   
 <li>
