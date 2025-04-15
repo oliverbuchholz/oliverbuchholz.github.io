@@ -64,6 +64,9 @@ Reinhardt, K. (eds.): <i>Handbuch Philosophie der Digitalit&auml;t</i>. Heidelbe
 <li><b>Evaluating GPT-4's Ability to Generate Informed Consent Material for Genetic Testing</b> (with Eirini Petrou, Kelly Ormond, Dominik Stammbach, Elliott Ash, and Effy Vayena), submitted.<br><br>
 </li>
 
+<li><b>Shaking up the Dogma: Solving Trade-offs without (Moral) Values in Machine Learning</b> (with Thomas Grote), submitted.<br><a href= "https://philsci-archive.pitt.edu/24530/" target= "_blank">[preprint]</a><br><br>
+</li>
+
 <li><b>The Curve-Fitting Problem Revisited</b>, submitted.<br><br>
 </li>
 </ul>
