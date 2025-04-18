@@ -14,6 +14,9 @@ description: Oliver Buchholz | Talks
 <ul>
 <li><b>The Curve-Fitting Problem Revisited</b>, <a href="https://www.ksl.unibe.ch/KSL/detailsansicht?2" target="_blank">Research Colloquium in Philosophy of Science</a>, Bern, November 2024.<br><br>
 </li>
+
+<li><b>AI and Dementia Prevention---Epistemology, Ethics, and Policy</b> (with Mattia Andreoletti and Alessandro Blasimme), <a href="https://www.istitutosvizzero.it/de/conferenza/future-memories/" target="_blank">Future Memories Symposium</a>, Rome, October 2024.<br><br>
+</li>
   
 <li><b>Justifying Reasons in Medicine: Is There Room for Machine Learning?</b> (with Alessandro Blasimme), <a href="https://philosmed.wordpress.com/2023/09/13/11th-roundtable-9-10-may-2024/" target="_blank">11th International Philosophy of Medicine Roundtable</a>, virtual, May 2024.<br><br>
 </li>
