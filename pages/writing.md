@@ -35,7 +35,7 @@ description: Oliver Buchholz | Writing
 
 <ul>
 <li>
-<b>AI Ethics Principles and Guidelines</b> (with Marcello Ienca and Effy Vayena), forthcoming in: Ziosi, M., Floridi, L., and Taddeo, M. (eds.): <i>The Blackwell Companion to Digital Ethics</i>. Oxford: Wiley-Blackwell.<br><br>
+<b>AI Ethical Principles: The Debate</b> (with Marcello Ienca and Effy Vayena), forthcoming in: Ziosi, M., Floridi, L., and Taddeo, M. (eds.): <i>The Blackwell Companion to Digital Ethics</i>. Oxford: Wiley-Blackwell.<br><br>
 </li>
 
 <li>
