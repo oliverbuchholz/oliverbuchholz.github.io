@@ -43,7 +43,7 @@ description: Oliver Buchholz | Writing
 </li>
 
 <li>
-<b>Epistemology of AI and Politics</b> (with Karoline Reinhardt), forthcoming in: H&auml;hnel, M. and M&uuml;ller, R. (eds.): <i>The Blackwell Companion to Applied Philosophy of AI</i>. Oxford: Wiley-Blackwell.<br><br>
+<b>Epistemology and Politics of AI</b> (with Karoline Reinhardt), forthcoming in: H&auml;hnel, M. and M&uuml;ller, R. (eds.): <i>The Blackwell Companion to Applied Philosophy of AI</i>. Oxford: Wiley-Blackwell.<br><br>
 </li>
  
 <li><b>Machine Learning in Public Health and the Prediction-Intervention Gap</b> (with Thomas Grote), forthcoming in: Dur&aacute;n, J. and Pozzi, G. (eds.): <i>Philosophy of Science for Machine Learning: Core Issues and New Perspectives</i>. Cham: Synthese Library.<br><a href= "https://philsci-archive.pitt.edu/23207/" target= "_blank">[preprint]</a><br><br>
