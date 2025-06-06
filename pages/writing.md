@@ -51,7 +51,7 @@ description: Oliver Buchholz | Writing
  
 <li>
 <b>Maschinelles Lernen in der Wissenschaft</b>, forthcoming in: Noller, J. and
-Reinhardt, K. (eds.): <i>Handbuch Philosophie der Digitalit&auml;t</i>. Heidelberg: Metzler.<br><br>
+Reinhardt, K. (eds.): <i>Handbuch Philosophie der Digitalit&auml;t</i>. Heidelberg: Metzler.<br><a href= "papers/preprint_Wissenschaftsphilosophie_Buchholz.pdf" target= "_blank">[preprint]</a><br><br>
 </li>
 </ul>
 
