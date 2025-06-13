@@ -58,16 +58,19 @@ Reinhardt, K. (eds.): <i>Handbuch Philosophie der Digitalit&auml;t</i>. Heidelbe
 <h4>Work in progress</h4>
 
 <ul>
-<li><b>AI, Medicine and Reason: The Theoretical Challenges of Explainability</b> (with Alessandro Blasimme), submitted.<br><br>
+<li>A paper about the curve-fitting problem in light of machine learning, under review.<br><br>
+</li>
+ 
+<li>A paper on AI in medicine (with Alessandro Blasimme), under review.<br><br>
 </li>
 
-<li><b>Evaluating GPT-4's Ability to Generate Informed Consent Material for Genetic Testing</b> (with Eirini Petrou, Kelly Ormond, Dominik Stammbach, Elliott Ash, and Effy Vayena), submitted.<br><br>
+<li>A paper on explainability and the moral obligation to explain (with Karoline Reinhardt), under review.<br><br>
 </li>
 
-<li><b>Shaking up the Dogma: Solving Trade-offs without (Moral) Values in Machine Learning</b> (with Thomas Grote), submitted.<br><a href= "https://philsci-archive.pitt.edu/24530/" target= "_blank">[preprint]</a><br><br>
+<li>A paper on large language models and informed consent (with Eirini Petrou, Kelly Ormond, Dominik Stammbach, Elliott Ash, and Effy Vayena), under review.<br><br>
 </li>
 
-<li><b>The Curve-Fitting Problem Revisited</b>, submitted.<br><br>
+<li><b>Shaking up the Dogma: Solving Trade-offs without (Moral) Values in Machine Learning</b> (with Thomas Grote), under review.<br><a href= "https://philsci-archive.pitt.edu/24530/" target= "_blank">[preprint]</a><br><br>
 </li>
 </ul>
 
