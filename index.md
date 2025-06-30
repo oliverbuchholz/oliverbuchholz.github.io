@@ -2,7 +2,7 @@
 layout: frontpage
 title: Oliver Buchholz | Home
 description: Oliver Buchholz is a postdoc in philosophy at ETH Zürich. 
-keywords: Buchholz, Oliver, philosophy, machine learning, phd, postdoc, Tübingen, ETH, Zürich
+keywords: Buchholz, Oliver, philosophy, machine learning, phd, postdoc, Tübingen, ETH, Zürich, AI
 ---
 
 <h4> About </h4>
@@ -23,6 +23,9 @@ Philosophy of science, epistemology, machine learning, and the ways in which the
 <h4> News </h4>
 
 <ul>
+<li> 23/06/2025 &ndash; My joint paper with Karoline Reinhardt, <a href="https://doi.org/10.1002/9781394238651.ch8" target="_blank">&ldquo;Epistemology and Politics of AI&rdquo;</a>, in which we investigate the interplay of epistemic and public justification in light of AI, has been published as a chapter in <a href="https://doi.org/10.1002/9781394238651" target="_blank">A Companion to Applied Philosophy of AI</a>.<br><br>
+</li>
+  
 <li> 08/04/2025 &ndash; I am happy to join a panel discussion about the responsible use of AI at the <a href="https://www.zhaw.ch/en/focus-topics/zhaw-sustainable/engagement/sustainability-day-25" target="_blank">ZHAW Sustainability Day 2025</a>.<br><br>
 </li>
   
