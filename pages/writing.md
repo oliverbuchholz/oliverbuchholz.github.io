@@ -35,7 +35,7 @@ description: Oliver Buchholz | Writing
 
 <ul>
 <li>
-<b>Epistemology and Politics of AI</b> (with Karoline Reinhardt), in: H&auml;hnel, M. and M&uuml;ller, R. (eds.): <i>The Blackwell Companion to Applied Philosophy of AI</i>. Oxford: Wiley-Blackwell, 2025.<br><a href= "https://doi.org/10.1002/9781394238651.ch8" target= "_blank">[chapter]</a><br><br>
+<b>Epistemology and Politics of AI</b> (with Karoline Reinhardt), in: H&auml;hnel, M. and M&uuml;ller, R. (eds.): <i>A Companion to Applied Philosophy of AI</i>. Oxford: Wiley-Blackwell, 2025.<br><a href= "https://doi.org/10.1002/9781394238651.ch8" target= "_blank">[chapter]</a><br><br>
 </li>
  
 <li>
