@@ -35,6 +35,11 @@ description: Oliver Buchholz | Writing
 
 <ul>
 <li>
+<b>Maschinelles Lernen in der Wissenschaft</b>, forthcoming in: Noller, J. and
+Reinhardt, K. (eds.): <i>Handbuch Philosophie der Digitalit&auml;t</i>. Heidelberg: Metzler.<br><a href= "papers/preprint_Wissenschaftsphilosophie_Buchholz.pdf" target= "_blank">[preprint]</a> <a href= "https://doi.org/10.1007/978-3-662-70086-0_43-1" target= "_blank">[chapter]</a><br><br>
+</li>
+ 
+<li>
 <b>Epistemology and Politics of AI</b> (with Karoline Reinhardt), in: H&auml;hnel, M. and M&uuml;ller, R. (eds.): <i>A Companion to Applied Philosophy of AI</i>. Oxford: Wiley-Blackwell, 2025.<br><a href= "https://doi.org/10.1002/9781394238651.ch8" target= "_blank">[chapter]</a><br><br>
 </li>
  
@@ -47,11 +52,6 @@ description: Oliver Buchholz | Writing
 </li>
  
 <li><b>Machine Learning in Public Health and the Prediction-Intervention Gap</b> (with Thomas Grote), forthcoming in: Dur&aacute;n, J. and Pozzi, G. (eds.): <i>Philosophy of Science for Machine Learning: Core Issues and New Perspectives</i>. Cham: Synthese Library.<br><a href= "https://philsci-archive.pitt.edu/23207/" target= "_blank">[preprint]</a><br><br>
-</li>
- 
-<li>
-<b>Maschinelles Lernen in der Wissenschaft</b>, forthcoming in: Noller, J. and
-Reinhardt, K. (eds.): <i>Handbuch Philosophie der Digitalit&auml;t</i>. Heidelberg: Metzler.<br><a href= "papers/preprint_Wissenschaftsphilosophie_Buchholz.pdf" target= "_blank">[preprint]</a><br><br>
 </li>
 </ul>
 
