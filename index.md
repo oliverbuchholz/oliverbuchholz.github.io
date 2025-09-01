@@ -25,6 +25,9 @@ Philosophy of science, epistemology, machine learning, and the ways in which the
 <ul>
 <li> Oct 2025 &ndash; I give a keynote at the <a href="https://www.simtech.uni-stuttgart.de/communication/events/workshops/frontiers/" target="_blank">Research Frontiers Workshop on Scientific Machine Learning</a> at the University of Stuttgart.<br><br>
 </li>
+
+<li> Jul 2025 &ndash; My overview paper <a href="https://doi.org/10.1007/978-3-662-70086-0_43-1" target="_blank">&ldquo;Maschinelles Lernen in der Wissenschaft&rdquo;</a> has been published as a chapter in the <a href="https://link.springer.com/referencework/10.1007/978-3-662-70086-0" target="_blank"><i>Handbuch Philosophie der Digitalit&auml;t</i></a> (Metzler).<br><br>
+</li>
   
 <li> Jun 2025 &ndash; My joint paper with Karoline Reinhardt, <a href="https://doi.org/10.1002/9781394238651.ch8" target="_blank">&ldquo;Epistemology and Politics of AI&rdquo;</a>, in which we investigate the interplay of epistemic and public justification in light of AI, has been published as a chapter in <a href="https://doi.org/10.1002/9781394238651" target="_blank">A Companion to Applied Philosophy of AI</a> (Wiley).<br><br>
 </li>
