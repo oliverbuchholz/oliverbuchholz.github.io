@@ -6,7 +6,13 @@ description: Oliver Buchholz | Talks
 
 <h4>Upcoming</h4>
 
-<i>tba</i>
+<ul>
+<li><b>Great, but Wait: Machine Learning in Science as a Challenge to AI Ethics</b>, Colloquium in Practical Philosophy, Zurich, November 2025.<br><br>
+</li>
+
+<li><b>Benign Overfitting and the Justification of Simplicity</b>, <a href="https://www.simtech.uni-stuttgart.de/communication/events/workshops/frontiers/" target="_blank">Research Frontiers Workshop on Scientific Machine Learning</a>, Stuttgart, October 2025.<br><br>
+</li>
+</ul>
 
 
 <h4>Previous</h4>
