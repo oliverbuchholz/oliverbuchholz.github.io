@@ -38,6 +38,10 @@ description: Oliver Buchholz | Writing
 
 <ul>
 <li>
+<b>AI Ethical Principles: The Debate</b> (with Marcello Ienca and Effy Vayena), in: Floridi, L. and Taddeo, M. (eds.): <i>A Companion to Digital Ethics</i>. Oxford: Wiley-Blackwell, 2025.<br><a href= "https://doi.org/10.1002/9781394240821.ch9" target= "_blank">[chapter]</a><br><br>
+</li>
+ 
+<li>
 <b>Maschinelles Lernen in der Wissenschaft</b>, in: Noller, J. and
 Reinhardt, K. (eds.): <i>Handbuch Philosophie der Digitalit&auml;t</i>. Heidelberg: Metzler, 2025.<br><a href= "papers/preprint_Wissenschaftsphilosophie_Buchholz.pdf" target= "_blank">[preprint]</a> <a href= "https://doi.org/10.1007/978-3-662-70086-0_43-1" target= "_blank">[chapter]</a><br><br>
 </li>
@@ -46,10 +50,6 @@ Reinhardt, K. (eds.): <i>Handbuch Philosophie der Digitalit&auml;t</i>. Heidelbe
 <b>Epistemology and Politics of AI</b> (with Karoline Reinhardt), in: H&auml;hnel, M. and M&uuml;ller, R. (eds.): <i>A Companion to Applied Philosophy of AI</i>. Oxford: Wiley-Blackwell, 2025.<br><a href= "https://doi.org/10.1002/9781394238651.ch8" target= "_blank">[chapter]</a><br><br>
 </li>
  
-<li>
-<b>AI Ethical Principles: The Debate</b> (with Marcello Ienca and Effy Vayena), forthcoming in: Ziosi, M., Floridi, L., and Taddeo, M. (eds.): <i>The Blackwell Companion to Digital Ethics</i>. Oxford: Wiley-Blackwell.<br><br>
-</li>
-
 <li>
 <b>Digital Ethics</b> (with Robert Ranisch and Effy Vayena), forthcoming in: Sugarman, J., and Sulmasy, D. P. (eds.): <i>Methods in Medical Ethics. Scholarship, Practice and Policy in Bioethics</i>. Washington, D.C.: Georgetown University Press.<br><br>
 </li>
