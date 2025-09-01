@@ -23,18 +23,12 @@ Philosophy of science, epistemology, machine learning, and the ways in which the
 <h4> News </h4>
 
 <ul>
-<li> 23/06/2025 &ndash; My joint paper with Karoline Reinhardt, <a href="https://doi.org/10.1002/9781394238651.ch8" target="_blank">&ldquo;Epistemology and Politics of AI&rdquo;</a>, in which we investigate the interplay of epistemic and public justification in light of AI, has been published as a chapter in <a href="https://doi.org/10.1002/9781394238651" target="_blank">A Companion to Applied Philosophy of AI</a> (Wiley).<br><br>
+<li> Oct 2025 &ndash; I give a keynote at the <a href="https://www.simtech.uni-stuttgart.de/communication/events/workshops/frontiers/" target="_blank">Research Frontiers Workshop on Scientific Machine Learning</a> at the University of Stuttgart.<br><br>
 </li>
   
-<li> 08/04/2025 &ndash; I am happy to join a panel discussion about the responsible use of AI at the <a href="https://www.zhaw.ch/en/focus-topics/zhaw-sustainable/engagement/sustainability-day-25" target="_blank">ZHAW Sustainability Day 2025</a>.<br><br>
+<li> Jun 2025 &ndash; My joint paper with Karoline Reinhardt, <a href="https://doi.org/10.1002/9781394238651.ch8" target="_blank">&ldquo;Epistemology and Politics of AI&rdquo;</a>, in which we investigate the interplay of epistemic and public justification in light of AI, has been published as a chapter in <a href="https://doi.org/10.1002/9781394238651" target="_blank">A Companion to Applied Philosophy of AI</a> (Wiley).<br><br>
 </li>
   
-<li> 19/03/2024 &ndash; My joint paper with Alessandro Blasimme, &ldquo;Justifying Reasons in Medicine: Is There Room for ML?&rdquo;, has been accepted for presentation at the <a href="https://philosmed.wordpress.com/2023/09/13/11th-roundtable-9-10-may-2024/" target="_blank">11th International Philosophy of Medicine Roundtable</a>.<br><br>
-</li>
-  
-<li> 04/03/2024 &ndash; I have been approved as an associate member of IRIS, University of Stuttgart's <a href="https://www.iris.uni-stuttgart.de/" target="_blank">Interchange Forum for Reflecting on Intelligent Systems</a>.<br><br>
-</li>
-  
-<li> 12/02/2024 &ndash; I am happy to be part of the <a href="https://ephil.ai/event/conference-ml-explain-yourself/" target="_blank">&ldquo;ML, Explain Yourself!&rdquo;-conference</a> in Utrecht to give a talk on why a purely objectivist perspective is inadequate for explicating the concept of explanation &ndash; in machine learning, but also in more general contexts.<br><br>
+<li> Apr 2025 &ndash; I am happy to join a panel discussion about the responsible use of AI at the <a href="https://www.zhaw.ch/en/focus-topics/zhaw-sustainable/engagement/sustainability-day-25" target="_blank">ZHAW Sustainability Day 2025</a>.<br><br>
 </li>
 </ul>
