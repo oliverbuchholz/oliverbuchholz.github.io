@@ -16,6 +16,9 @@ description: Oliver Buchholz | Writing
 <ul>
 <li><b>Evaluating GPT-4's Ability to Generate Informed Consent Material for Genetic Testing</b> (with Eirini Petrou, Kelly Ormond, Dominik Stammbach, Elliott Ash, and Effy Vayena), accepted for publication at <i>npj Artificial Intelligence</i>.<br><br>
 </li>
+
+<li><b>XAI: On Explainability and the Obligation to Explain</b> (with Karoline Reinhardt), <i>Digital Society</i>, 2025.<br><a href= "https://doi.org/10.1007/s44206-025-00215-5" target= "_blank">[journal]</a><br><br>
+</li>
  
 <li><b>A Means-End Account of Explainable Artificial Intelligence</b>, <i>Synthese</i>, 2023.<br><a href= "https://arxiv.org/abs/2208.04638" target= "_blank">[preprint]</a> <a href= "https://doi.org/10.1007/s11229-023-04260-w" target= "_blank">[journal]</a><br><br>
 </li>
@@ -65,9 +68,6 @@ Reinhardt, K. (eds.): <i>Handbuch Philosophie der Digitalit&auml;t</i>. Heidelbe
 </li>
  
 <li>A paper on AI in medicine (with Alessandro Blasimme), under review.<br><br>
-</li>
-
-<li>A paper on explainability and the moral obligation to explain (with Karoline Reinhardt), under review.<br><br>
 </li>
 
 <li><b>Shaking up the Dogma: Solving Trade-offs without (Moral) Values in Machine Learning</b> (with Thomas Grote), under review.<br><a href= "https://philsci-archive.pitt.edu/24530/" target= "_blank">[preprint]</a><br><br>
