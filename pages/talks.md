@@ -9,15 +9,15 @@ description: Oliver Buchholz | Talks
 <ul>
 <li><b>Great, but Wait: Machine Learning in Science as a Challenge to AI Ethics</b>, Colloquium in Practical Philosophy, Zurich, November 2025.<br><br>
 </li>
-
-<li><b>Benign Overfitting and the Justification of Simplicity</b>, <a href="https://www.simtech.uni-stuttgart.de/communication/events/workshops/frontiers/" target="_blank">Research Frontiers Workshop on Scientific Machine Learning</a>, Stuttgart, October 2025.<br><br>
-</li>
 </ul>
 
 
 <h4>Previous</h4>
 
 <ul>
+<li><b>Benign Overfitting and the Justification of Simplicity</b>, <a href="https://www.simtech.uni-stuttgart.de/communication/events/workshops/frontiers/" target="_blank">Research Frontiers Workshop on Scientific Machine Learning</a>, Stuttgart, October 2025.<br><br>
+</li>
+  
 <li><b>The Curve-Fitting Problem Revisited</b>, <a href="https://www.ksl.unibe.ch/KSL/detailsansicht?2" target="_blank">Research Colloquium in Philosophy of Science</a>, Bern, November 2024.<br><br>
 </li>
 
