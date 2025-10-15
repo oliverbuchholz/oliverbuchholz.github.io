@@ -7,7 +7,7 @@ description: Oliver Buchholz | Talks
 <h4>Upcoming</h4>
 
 <ul>
-<li><b>Great, but Wait: Machine Learning in Science as a Challenge to AI Ethics</b>, Colloquium in Practical Philosophy, Zurich, November 2025.<br><br>
+<li><b>Great, but Wait: Machine Learning in Science as a Challenge to AI Ethics</b>, Colloquium in Practical Philosophy, Zurich, December 2025.<br><br>
 </li>
 </ul>
 
