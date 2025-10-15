@@ -23,6 +23,11 @@ Philosophy of science, epistemology, machine learning, and the ways in which the
 <h4> News </h4>
 
 <ul>
+<li> Dec 2025 &ndash; I give a talk at the Colloquium in Practical Philosophy at ETH Zurich on AI in science and its proper governance.
+  
+<li> Nov 2025 &ndash; My monograph <a href="https://www.degruyterbrill.com/document/isbn/9783111617312/html#overview" target="_blank"><i>Explaining Artificial Intelligence. From Epistemological Foundations to Practical Consequences</i>g</a> is published with <a href= "https://www.degruyter.com/" target= "_blank">De Gruyter</a>.
+</li>
+  
 <li> Oct 2025 &ndash; I give a keynote at the <a href="https://www.simtech.uni-stuttgart.de/communication/events/workshops/frontiers/" target="_blank">Research Frontiers Workshop on Scientific Machine Learning</a> at the University of Stuttgart.<br><br>
 </li>
 
