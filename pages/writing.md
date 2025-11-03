@@ -14,7 +14,7 @@ description: Oliver Buchholz | Writing
 <h4>Articles in peer-reviewed journals</h4>
 
 <ul>
-<li><b>Evaluating GPT-4's Ability to Generate Informed Consent Material for Genetic Testing</b> (with Eirini Petrou, Kelly Ormond, Dominik Stammbach, Elliott Ash, and Effy Vayena), accepted for publication at <i>npj Artificial Intelligence</i>.<br><br>
+<li><b>Evaluating GPT-4's Ability to Generate Informed Consent Material for Genetic Testing</b> (with Eirini Petrou, Kelly Ormond, Dominik Stammbach, Elliott Ash, and Effy Vayena), accepted for publication at <i>npj Artificial Intelligence</i>.<br><a href= "https://doi.org/10.1038/s44387-025-00036-4" target= "_blank">[journal]</a><br><br>
 </li>
 
 <li><b>XAI: On Explainability and the Obligation to Explain</b> (with Karoline Reinhardt), <i>Digital Society</i>, 2025.<br><a href= "https://doi.org/10.1007/s44206-025-00215-5" target= "_blank">[journal]</a><br><br>
