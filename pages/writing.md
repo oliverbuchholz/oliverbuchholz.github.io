@@ -41,13 +41,13 @@ description: Oliver Buchholz | Writing
 
 <ul>
 <li>
-<b>Epistemology and Politics of AI</b> (with Karoline Reinhardt), in: H&auml;hnel, M. and M&uuml;ller, R. (eds.): <i>A Companion to Applied Philosophy of AI</i>. Oxford: Wiley-Blackwell, 2025.<br><a href= "https://doi.org/10.1002/9781394238651.ch8" target= "_blank">[chapter]</a><br><br>
+<b>AI Ethical Principles: The Debate</b> (with Marcello Ienca and Effy Vayena), in: Floridi, L. and Taddeo, M. (eds.): <i>A Companion to Digital Ethics</i>. Oxford: Wiley-Blackwell, 2025.<br><a href= "https://doi.org/10.1002/9781394240821.ch9" target= "_blank">[chapter]</a><br><br>
 </li>
  
 <li>
-<b>AI Ethical Principles: The Debate</b> (with Marcello Ienca and Effy Vayena), in: Floridi, L. and Taddeo, M. (eds.): <i>A Companion to Digital Ethics</i>. Oxford: Wiley-Blackwell, 2025.<br><a href= "https://doi.org/10.1002/9781394240821.ch9" target= "_blank">[chapter]</a><br><br>
+<b>Epistemology and Politics of AI</b> (with Karoline Reinhardt), in: H&auml;hnel, M. and M&uuml;ller, R. (eds.): <i>A Companion to Applied Philosophy of AI</i>. Oxford: Wiley-Blackwell, 2025.<br><a href= "https://doi.org/10.1002/9781394238651.ch8" target= "_blank">[chapter]</a><br><br>
 </li>
-
+ 
 <li><b>Machine Learning in Public Health and the Prediction-Intervention Gap</b> (with Thomas Grote), in: Dur&aacute;n, J. and Pozzi, G. (eds.): <i>Philosophy of Science for Machine Learning: Core Issues and New Perspectives</i>. Cham: Synthese Library, 2025.<br><a href= "https://philsci-archive.pitt.edu/23207/" target= "_blank">[preprint]</a> <a href= "https://doi.org/10.1007/978-3-032-03083-2_22" target= "_blank">[chapter]</a><br><br>
 </li>
  
