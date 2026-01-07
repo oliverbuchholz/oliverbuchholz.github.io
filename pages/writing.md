@@ -7,7 +7,7 @@ description: Oliver Buchholz | Writing
 <h4>Books</h4>
 
 <ul>
-<li><b><i>Explaining Artificial Intelligence. From Epistemological Foundations to Practical Consequences</i></b>, forthcoming with <a href= "https://www.degruyterbrill.com/?changeLang=en" target= "_blank">De Gruyter</a>.<br><a href= "https://www.degruyterbrill.com/document/isbn/9783111617312/html" target= "_blank">[book]</a><br><br>
+<li><b><i>Explaining Artificial Intelligence. From Epistemological Foundations to Practical Consequences</i></b>, De Gruyter, 2025.<br><a href= "https://www.degruyterbrill.com/document/isbn/9783111617312/html" target= "_blank">[book]</a> <a href= "https://www.degruyterbrill.com/document/doi/10.1515/9783111617312-toc/pdf" target= "_blank">[contents]</a><br><br>
 </li>
 </ul>
 
