@@ -14,6 +14,9 @@ description: Oliver Buchholz | Writing
 <h4>Articles in peer-reviewed journals</h4>
 
 <ul>
+<li><b>Digital Bioethics: Exploring an Emerging Field</b> (with Georg Starke, Wolf-Tilo Balke, Lasse Benzinger, Manuel Burghardt, Lukas J. Meier, Emilian Mihailov, Eva Seidlmayer, Robert Ranisch, Frank Ursin, Effy Vayena, and Sabine Salloch), accepted for publication in <i>Medicine, Healthcare and Philosophy</i>.<br>[coming soon]<br><br>
+</li>
+ 
 <li><b>Evaluating GPT-4's Ability to Generate Informed Consent Material for Genetic Testing</b> (with Eirini Petrou, Kelly Ormond, Dominik Stammbach, Elliott Ash, and Effy Vayena), <i>npj Artificial Intelligence</i>, 2025.<br><a href= "https://doi.org/10.1038/s44387-025-00036-4" target= "_blank">[journal]</a><br><br>
 </li>
 
@@ -64,7 +67,7 @@ Reinhardt, K. (eds.): <i>Handbuch Philosophie der Digitalit&auml;t</i>. Heidelbe
 <h4>Work in progress</h4>
 
 <ul>
-<li>A paper about the curve-fitting problem in light of machine learning, under review.<br><br>
+<li>A paper about the curve-fitting problem in light of machine learning, revisions requested.<br><br>
 </li>
  
 <li>A paper on AI in medicine (with Alessandro Blasimme), under review.<br><br>
@@ -77,10 +80,13 @@ Reinhardt, K. (eds.): <i>Handbuch Philosophie der Digitalit&auml;t</i>. Heidelbe
 <h4>Theses</h4>
 
 <ul>
-<li><b>Artificial Neural Networks and the Reference Class Problem</b>, thesis for the degree M. A. in Philosophy, 2020.<br> <a href= "papers/MA_Philo.pdf" target= "_blank">[thesis]</a><br><br>
+<li><b>Explaining Artificial Intelligence. From Epistemological Foundations to Practical Consequences</b>, thesis for the degree PhD in Philosophy, 2023.<br>[see &lsquo;Books&rsquo; at the top of this page]<br><br>
+</li>
+ 
+<li><b>Artificial Neural Networks and the Reference Class Problem</b>, thesis for the degree MA in Philosophy, 2020.<br> <a href= "papers/MA_Philo.pdf" target= "_blank">[thesis]</a><br><br>
  </li>
 
-<li><b>Uncertainty and the Business Cycle</b>, thesis for the degree M. Sc. in Economics and Finance, 2020.<br> <a href= "papers/MA_Econ.pdf" target= "_blank">[thesis]</a><br><br>
+<li><b>Uncertainty and the Business Cycle</b>, thesis for the degree MSc in Economics and Finance, 2020.<br> <a href= "papers/MA_Econ.pdf" target= "_blank">[thesis]</a><br><br>
  </li>
 <!--
 <li><b>Forecasting Emergency Patient Arrival Counts</b> (2015) <a href= "papers/BA.pdf" target= "_blank">[thesis]</a><br> 
