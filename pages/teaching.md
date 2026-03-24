@@ -6,7 +6,7 @@ description: Oliver Buchholz | Teaching
 
 <ul>
 <li>
-<b>Ethics in Medicine and Health Care</b>, graduate seminar (in English), spring term 2026, ETH Zurich.<br><a href= "https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=197578&semkez=2026S&ansicht=LEHRVERANSTALTUNGEN&lang=en" target= "_blank">[course catalogue]</a><br><br>
+<b>Ethics in Medicine and Health Care</b>, undergraduate lecture (in English), spring term 2026, ETH Zurich.<br><a href= "https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=197578&semkez=2026S&ansicht=LEHRVERANSTALTUNGEN&lang=en" target= "_blank">[course catalogue]</a><br><br>
 </li>
   
 <li>
