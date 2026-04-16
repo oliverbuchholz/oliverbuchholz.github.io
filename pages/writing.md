@@ -14,7 +14,7 @@ description: Oliver Buchholz | Writing
 <h4>Articles in peer-reviewed journals</h4>
 
 <ul>
-<li><b>Digital Bioethics: Exploring an Emerging Field</b> (with Georg Starke, Wolf-Tilo Balke, Lasse Benzinger, Manuel Burghardt, Lukas J. Meier, Emilian Mihailov, Eva Seidlmayer, Robert Ranisch, Frank Ursin, Effy Vayena, and Sabine Salloch), accepted for publication in <i>Medicine, Healthcare and Philosophy</i>.<br>[coming soon]<br><br>
+<li><b>Digital Bioethics: Exploring an Emerging Field</b> (with Georg Starke, Wolf-Tilo Balke, Lasse Benzinger, Manuel Burghardt, Lukas J. Meier, Emilian Mihailov, Eva Seidlmayer, Robert Ranisch, Frank Ursin, Effy Vayena, and Sabine Salloch), accepted for publication in <i>Medicine, Healthcare and Philosophy</i>, 2026.<br><a href= "https://doi.org/10.1007/s11019-026-10347-1" target= "_blank">[journal]</a><br><br>
 </li>
  
 <li><b>Evaluating GPT-4's Ability to Generate Informed Consent Material for Genetic Testing</b> (with Eirini Petrou, Kelly Ormond, Dominik Stammbach, Elliott Ash, and Effy Vayena), <i>npj Artificial Intelligence</i>, 2025.<br><a href= "https://doi.org/10.1038/s44387-025-00036-4" target= "_blank">[journal]</a><br><br>
