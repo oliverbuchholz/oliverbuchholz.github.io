@@ -7,9 +7,9 @@ description: Oliver Buchholz | Talks
 <h4>Upcoming</h4>
 
 <ul>
-<i>tba</i>
+<li><b>What Are We Measuring When We Measure Age? Accuracy and Actionability in the Clinical Use of Biological Age Clocks</b> (with Alessandro Blasimme), <a href="https://spspcambridge2026.com/" target="_blank">Society for Philosophy of Science in Practice Conference</a>, Cambridge, July 2026.<br><br>
+</li>
 </ul>
-
 
 <h4>Previous</h4>
 
