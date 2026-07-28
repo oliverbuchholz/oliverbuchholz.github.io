@@ -14,6 +14,10 @@ description: Oliver Buchholz | Writing
 <h4>Articles in peer-reviewed journals</h4>
 
 <ul>
+<li><b>The Curve-Fitting Problem Revisited</b>, accepted for publication in the <i>European Journal for Philosophy of Science</i>.<br>
+ <a href= "https://philsci-archive.pitt.edu/id/eprint/30570" target= "_blank">[preprint]</a><br><br>
+</li>
+ 
 <li><b>Digital Bioethics: Exploring an Emerging Field</b> (with Georg Starke, Wolf-Tilo Balke, Lasse Benzinger, Manuel Burghardt, Lukas J. Meier, Emilian Mihailov, Eva Seidlmayer, Robert Ranisch, Frank Ursin, Effy Vayena, and Sabine Salloch), <i>Medicine, Healthcare and Philosophy</i>, 2026.<br><a href= "https://doi.org/10.1007/s11019-026-10347-1" target= "_blank">[journal]</a><br><br>
 </li>
  
@@ -44,6 +48,14 @@ description: Oliver Buchholz | Writing
 
 <ul>
 <li>
+<b>Prediction in the Social Sciences</b> (with Sebastian Zezulka), forthcoming in: Hansson, S.-O. (ed.): <i>Comprehensive Philosophy of Science</i>. Amsterdam: Elsevier.<br><br>
+</li>
+ 
+<li>
+<b>Digital Ethics</b> (with Robert Ranisch and Effy Vayena), in: Sugarman, J., and Sulmasy, D. P. (eds.): <i>Methods in Medical Ethics. Scholarship, Practice and Policy in Bioethics</i>. Washington, D.C.: Georgetown University Press, 2026.<br>[link coming soon]<br><br>
+</li>
+ 
+<li>
 <b>AI Ethical Principles: The Debate</b> (with Marcello Ienca and Effy Vayena), in: Floridi, L. and Taddeo, M. (eds.): <i>A Companion to Digital Ethics</i>. Oxford: Wiley-Blackwell, 2025.<br><a href= "https://doi.org/10.1002/9781394240821.ch9" target= "_blank">[chapter]</a><br><br>
 </li>
  
@@ -58,22 +70,18 @@ description: Oliver Buchholz | Writing
 <b>Maschinelles Lernen in der Wissenschaft</b>, in: Noller, J. and
 Reinhardt, K. (eds.): <i>Handbuch Philosophie der Digitalit&auml;t</i>. Heidelberg: Metzler, 2025.<br><a href= "papers/preprint_Wissenschaftsphilosophie_Buchholz.pdf" target= "_blank">[preprint]</a> <a href= "https://doi.org/10.1007/978-3-662-70086-0_43-1" target= "_blank">[chapter]</a><br><br>
 </li>
- 
-<li>
-<b>Digital Ethics</b> (with Robert Ranisch and Effy Vayena), forthcoming in: Sugarman, J., and Sulmasy, D. P. (eds.): <i>Methods in Medical Ethics. Scholarship, Practice and Policy in Bioethics</i>. Washington, D.C.: Georgetown University Press.<br><br>
-</li>
 </ul>
 
 <h4>Work in progress</h4>
 
 <ul>
-<li>A paper about the curve-fitting problem in light of machine learning, revisions requested.<br><br>
+<li>A paper about the ethics of using AI in clinical research, accepted for publication.<br><br>
 </li>
  
-<li>A paper on AI in medicine (with Alessandro Blasimme), under review.<br><br>
+<li>A paper about AI governance in science, under review.<br><br>
 </li>
 
-<li><b>Shaking up the Dogma: Solving Trade-offs without (Moral) Values in Machine Learning</b> (with Thomas Grote), under review.<br><a href= "https://philsci-archive.pitt.edu/24530/" target= "_blank">[preprint]</a><br><br>
+<li>A paper about the epistemic foundations of human-LLM interactions, in preparation.<br><br>
 </li>
 </ul>
 
