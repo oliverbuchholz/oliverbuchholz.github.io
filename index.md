@@ -23,6 +23,8 @@ Philosophy of science, epistemology, machine learning, and the ways in which the
 <h4> News </h4>
 
 <ul>
+<li>Jul 2026 &ndash; My paper &ldquo;The Curve-Fitting Problem Revisited&rdquo; has been accepted for publication at the <i>European Journal for Philosophy of Science</i>. It is already available as a <a href="https://philsci-archive.pitt.edu/id/eprint/30570" target="_blank">preprint</a>.</li>
+  
 <li> Dec 2025 &ndash; I give a talk at the Colloquium in Practical Philosophy at ETH Zurich on AI in science and its proper governance.<br><br>
 </li>
   
