@@ -76,7 +76,7 @@ Reinhardt, K. (eds.): <i>Handbuch Philosophie der Digitalit&auml;t</i>. Heidelbe
 
 <ul>
 <li>
-2026. <b>Preventing Ethical Asymmetries: AI-Driven Decision-Aids for Prospective Participants in Clinical Research</b> (with Lukas J. Meier, Robert Ranisch, and Sabine Salloch), <i>The American Journal of Bioethics</i>.<br><a href= "https://doi.org/10.1080/15265161.2026.2690930" target= "_blank">[journal]</a><br><br>
+<b>Preventing Ethical Asymmetries: AI-Driven Decision-Aids for Prospective Participants in Clinical Research</b> (with Lukas J. Meier, Robert Ranisch, and Sabine Salloch), <i>The American Journal of Bioethics</i>, 2026.<br><a href= "https://doi.org/10.1080/15265161.2026.2690930" target= "_blank">[journal]</a><br><br>
 </li>
 </ul>
 
