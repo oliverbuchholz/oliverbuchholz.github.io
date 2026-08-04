@@ -20,11 +20,11 @@ description: Oliver Buchholz | Writing
  
 <li><b>Digital Bioethics: Exploring an Emerging Field</b> (with Georg Starke, Wolf-Tilo Balke, Lasse Benzinger, Manuel Burghardt, Lukas J. Meier, Emilian Mihailov, Eva Seidlmayer, Robert Ranisch, Frank Ursin, Effy Vayena, and Sabine Salloch), <i>Medicine, Healthcare and Philosophy</i>, 2026.<br><a href= "https://doi.org/10.1007/s11019-026-10347-1" target= "_blank">[journal]</a><br><br>
 </li>
- 
-<li><b>Evaluating GPT-4's Ability to Generate Informed Consent Material for Genetic Testing</b> (with Eirini Petrou, Kelly Ormond, Dominik Stammbach, Elliott Ash, and Effy Vayena), <i>npj Artificial Intelligence</i>, 2025.<br><a href= "https://doi.org/10.1038/s44387-025-00036-4" target= "_blank">[journal]</a><br><br>
-</li>
 
 <li><b>A Falsificationist Account of Artificial Neural Networks</b> (with Eric Raidl), <i>The British Journal for the Philosophy of Science</i>, 2025.<br><a href= "https://arxiv.org/abs/2205.01421" target= "_blank">[preprint]</a> <a href= "https://doi.org/10.1086/721797" target= "_blank">[journal]</a><br><br>
+</li>
+ 
+<li><b>Evaluating GPT-4's Ability to Generate Informed Consent Material for Genetic Testing</b> (with Eirini Petrou, Kelly Ormond, Dominik Stammbach, Elliott Ash, and Effy Vayena), <i>npj Artificial Intelligence</i>, 2025.<br><a href= "https://doi.org/10.1038/s44387-025-00036-4" target= "_blank">[journal]</a><br><br>
 </li>
 
 <li><b>XAI: On Explainability and the Obligation to Explain</b> (with Karoline Reinhardt), <i>Digital Society</i>, 2025.<br><a href= "https://doi.org/10.1007/s44206-025-00215-5" target= "_blank">[journal]</a><br><br>
@@ -76,7 +76,7 @@ Reinhardt, K. (eds.): <i>Handbuch Philosophie der Digitalit&auml;t</i>. Heidelbe
 
 <ul>
 <li>
-<b>Preventing Ethical Asymmetries: AI-Driven Decision-Aids for Prospective Participants in Clinical Research</b> (with Lukas J. Meier, Robert Ranisch, and Sabine Salloch), <i>The American Journal of Bioethics</i>, 2026.<br><a href= "https://doi.org/10.1080/15265161.2026.2690930" target= "_blank">[journal]</a><br><br>
+2026. <b>Preventing Ethical Asymmetries: AI-Driven Decision-Aids for Prospective Participants in Clinical Research</b> (with Lukas J. Meier, Robert Ranisch, and Sabine Salloch), <i>The American Journal of Bioethics</i>.<br><a href= "https://doi.org/10.1080/15265161.2026.2690930" target= "_blank">[journal]</a><br><br>
 </li>
 </ul>
 
