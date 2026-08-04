@@ -23,6 +23,9 @@ Philosophy of science, epistemology, machine learning, and the ways in which the
 <h4> News </h4>
 
 <ul>
+<li>Aug 2026 &ndash; Together with Lukas J. Meier, Robert Ranisch, and Sabine Salloch, I have published an <a href="https://doi.org/10.1080/15265161.2026.2690930" target="_blank">open peer commentary</a> on the use of AI in clinical research in <i>The American Journal of Bioethics</i>.<br><br>
+</li>
+  
 <li>Jul 2026 &ndash; My paper &ldquo;The Curve-Fitting Problem Revisited&rdquo; has been accepted for publication at the <i>European Journal for Philosophy of Science</i>. It is already available as a <a href="https://philsci-archive.pitt.edu/id/eprint/30570" target="_blank">preprint</a>.<br><br>
 </li>
   
